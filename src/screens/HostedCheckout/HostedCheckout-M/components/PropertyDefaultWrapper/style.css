@@ -1,0 +1,202 @@
+.property-default-wrapper {
+  height: 80px;
+  position: relative;
+  width: 113px;
+}
+
+.property-default-wrapper .overlap-2 {
+  height: 82px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 56px;
+}
+
+.property-default-wrapper .rectangle {
+  background: linear-gradient(180deg, rgb(82.94, 82.94, 82.94) 0%, rgb(60.63, 60.63, 60.63) 100%);
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px 16px 0px 0px;
+  box-shadow: inset 0px 4px 4px #ffffff40;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.property-default-wrapper .rectangle-2 {
+  background: linear-gradient(180deg, rgb(82.94, 82.94, 82.94) 0%, rgb(60.63, 60.63, 60.63) 100%);
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 16px 16px;
+  box-shadow: inset 0px 4px 4px #ffffff40;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 56px;
+}
+
+.property-default-wrapper .rectangle-3 {
+  background: linear-gradient(180deg, rgb(82.94, 82.94, 82.94) 0%, rgb(60.63, 60.63, 60.63) 100%);
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px 16px 0px 0px;
+  box-shadow: inset 0px -4px 4px #ffffff40;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  transform: rotate(180deg);
+  width: 56px;
+}
+
+.property-default-wrapper .element-wrapper {
+  height: 40px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 41px;
+  width: 35px;
+}
+
+.property-default-wrapper .element {
+  color: #feffff;
+  font-family: "Bebas Kai-Regular", Helvetica;
+  font-size: 83px;
+  font-weight: 400;
+  height: 80px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: -41px;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.property-default-wrapper .div-wrapper {
+  height: 40px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 35px;
+}
+
+.property-default-wrapper .element-2 {
+  color: #feffff;
+  font-family: "Bebas Kai-Regular", Helvetica;
+  font-size: 83px;
+  font-weight: 400;
+  height: 80px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: -1px;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.property-default-wrapper .line-2 {
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 40px;
+  width: 54px;
+}
+
+.property-default-wrapper .rectangle-4 {
+  background: linear-gradient(
+    180deg,
+    rgb(235, 188, 76) 0%,
+    rgb(240, 201, 85) 7.57%,
+    rgb(243, 210, 91) 15.59%,
+    rgb(243, 214, 96) 16.52%,
+    rgb(245, 241, 127) 23.14%,
+    rgb(246, 251, 139) 26.83%,
+    rgb(246, 247, 133) 30.3%,
+    rgb(245, 237, 117) 34.84%,
+    rgb(244, 226, 100) 38.23%,
+    rgb(245, 231, 109) 43.28%,
+    rgb(245, 236, 116) 50.54%,
+    rgb(237, 211, 97) 55.32%,
+    rgb(218, 147, 50) 65.46%,
+    rgb(216, 141, 46) 66.29%,
+    rgb(201, 131, 43) 70.31%,
+    rgb(185, 121, 39) 75.81%,
+    rgb(188, 123, 40) 76.92%,
+    rgb(216, 141, 46) 87.63%,
+    rgb(222, 155, 55) 90.44%,
+    rgb(231, 179, 70) 96.36%,
+    rgb(235, 188, 76) 100%
+  );
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.property-default-wrapper .rectangle-5 {
+  background: linear-gradient(
+    180deg,
+    rgb(235, 188, 76) 0%,
+    rgb(240, 201, 85) 7.57%,
+    rgb(243, 210, 91) 15.59%,
+    rgb(243, 214, 96) 16.52%,
+    rgb(245, 241, 127) 23.14%,
+    rgb(246, 251, 139) 26.83%,
+    rgb(246, 247, 133) 30.3%,
+    rgb(245, 237, 117) 34.84%,
+    rgb(244, 226, 100) 38.23%,
+    rgb(245, 231, 109) 43.28%,
+    rgb(245, 236, 116) 50.54%,
+    rgb(237, 211, 97) 55.32%,
+    rgb(218, 147, 50) 65.46%,
+    rgb(216, 141, 46) 66.29%,
+    rgb(201, 131, 43) 70.31%,
+    rgb(185, 121, 39) 75.81%,
+    rgb(188, 123, 40) 76.92%,
+    rgb(216, 141, 46) 87.63%,
+    rgb(222, 155, 55) 90.44%,
+    rgb(231, 179, 70) 96.36%,
+    rgb(235, 188, 76) 100%
+  );
+  height: 8px;
+  left: 54px;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.property-default-wrapper .overlap-group-3 {
+  height: 82px;
+  left: 58px;
+  position: absolute;
+  top: -1px;
+  width: 56px;
+}
+
+.property-default-wrapper .text-wrapper-14 {
+  color: #feffff;
+  font-family: "Bebas Kai-Regular", Helvetica;
+  font-size: 83px;
+  font-weight: 400;
+  height: 80px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  white-space: nowrap;
+  width: 35px;
+}

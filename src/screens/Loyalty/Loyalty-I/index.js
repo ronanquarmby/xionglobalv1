@@ -1,0 +1,1 @@
+export { LoyaltyIpad } from "./LoyaltyIpad";

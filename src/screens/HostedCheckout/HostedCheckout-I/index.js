@@ -1,0 +1,1 @@
+export { HCI } from "./HostedCheckoutIpad";

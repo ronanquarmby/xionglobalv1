@@ -1,0 +1,1 @@
+export { HCD } from "./HostedCheckoutDesktop";

@@ -1,0 +1,1 @@
+export { MediumFooter } from "./MediumFooter";

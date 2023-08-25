@@ -1,0 +1,1 @@
+export { LoyaltyMobile } from "./LoyaltyMobile";

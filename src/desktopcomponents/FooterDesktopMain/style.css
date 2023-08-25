@@ -1,0 +1,338 @@
+.df-container {
+    width: 1280px;
+    position: relative;
+    top: -280px;
+}
+ 
+ .footer-df {
+    height: 315px;
+    left: 50px;
+    position: absolute;
+    top: 680px;
+    width: 1179px;
+  }
+  
+.start-df {
+    height: 638px;
+    left: 50px;
+    position: absolute;
+    top: 1px;
+    width: 1179px;
+  }
+  
+.overlap-group-2-df {
+    height: 250px;
+    position: relative;
+  }
+  
+.rectangle-df {
+    height: 426px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 212px;
+    width: 1179px;
+  }
+  
+.gradient-df {
+    height: 638px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1179px;
+  }
+  
+.mouse-df {
+    position: absolute;
+    width: 1179px;
+    height: 428px;
+    background-size: cover;
+    pointer-events: none; /* This ensures the mouse doesn't interact with the element itself */
+  } 
+
+.start-section-df {
+    height: 489px;
+    margin-top: -43px;
+    position: relative;
+    width: 1280px;
+  }
+  
+  .start-image-df {
+    height: 553px;
+    left: 590px;
+    object-fit: cover;
+    position: absolute;
+    top: -100px;
+    width: 618px;
+  }
+  
+  .CTA-buttons-2-df  {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    left: 90px;
+    position: absolute;
+    top: 330px;
+    width: 472px;
+  }
+  
+  .text-block-3-df  {
+    height: 154px;
+    left: 90px;
+    position: absolute;
+    top: 146px;
+    width: 323px;
+  }
+  
+  .overlap-group-10-df  {
+    height: 154px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .text-wrapper-49-df  {
+    color: #e9edf3;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 66px;
+    font-weight: 100;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 224px;
+  }
+  
+  .text-wrapper-50-df  {
+    -webkit-text-fill-color: transparent;
+    color: #0000;
+    letter-spacing: 0;
+    text-fill-color: transparent;
+    white-space: nowrap;
+    background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    width: 323px;
+    height: 79px;
+    font-family: Oswald, Helvetica;
+    font-size: 66px;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+    top: 75px;
+    left: 0;
+    -webkit-background-clip: text !important;
+  }
+  
+  .footer-section-df  {
+    height: 344px;
+    margin-top: -43px;
+    position: relative;
+    width: 1278px;
+  }
+  
+  .frame-7-df {
+    align-items: flex-start;
+    gap: 307px;
+    display: inline-flex;
+    position: relative;
+    top: 700px;
+    left: 144px;
+}
+  
+  .XG-logo-df  {
+    height: 31.84px;
+    position: relative;
+    width: 155.66px;
+  }
+  
+  .sections-df  {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 80px;
+    position: relative;
+  }
+  
+  .div-4-df  {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 15px;
+    position: relative;
+  }
+  
+  .text-wrapper-51-df  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .text-wrapper-52-df  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 8px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .follow-us-df  {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 33px;
+    position: relative;
+  }
+  
+  .follow-us-2-df  {
+    height: 81.5px;
+    position: relative;
+    width: 98.78px;
+  }
+  
+.text-wrapper-53-df  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 8px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 68px;
+  }
+  
+ .social-df  {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 7px;
+    left: 0;
+    position: absolute;
+    top: 35px;
+  }
+
+  .df-container .telegram-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 21px;
+  }  
+  
+  .df-container .telegram-footer-instance-df  {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-left: -0.5px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .df-container .twitter-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+  }
+  
+  
+  .df-container .twitter-footer-instance-df  {
+    left: unset !important;
+    margin-bottom: -0.5px !important;
+    margin-top: -0.5px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .df-container .medium-footer-instance-df  {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .df-container .medium-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    width: 21px;
+  }
+  
+.df-container .linkedin-footer-instance-df  {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-right: -0.5px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .df-container .linkedin-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 21px;
+  }  
+  
+.text-wrapper-54-df  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+.t-cs-df  {
+    height: 17.49px;
+    position: relative;
+    width: 61px;
+  }
+  
+.overlap-group-11-df  {
+    height: 17px;
+    position: relative;
+    top: -1px;
+  }
+  
+.text-wrapper-55-df  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 6px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+.all-rights-reserved-df  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 6px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+  }

@@ -1,0 +1,29 @@
+.GS-button {
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+  cursor: pointer;
+}
+
+.GS-button .get-started {
+  color: #ffffff;
+  font-family: "Opinion Pro Extended-Light", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 226px;
+}
+
+.GS-button.property-1-0-default {
+  background-color: #14a5ed;
+}
+
+.GS-button.property-1-0-variant-2 {
+  background-color: #7f64fb;
+}

@@ -1,0 +1,14 @@
+.dot-indictaor-i.active-false {
+  background-color: #999999;
+  border-radius: 6px;
+  height: 12px;
+  opacity: 0.5;
+  width: 12px;
+}
+
+.dot-indictaor-i.active-true {
+  background-color: #7b61ff;
+  border-radius: 8px;
+  height: 16px;
+  width: 16px;
+}

@@ -1,0 +1,1 @@
+export { LinkedinFooter } from "./LinkedinFooter";

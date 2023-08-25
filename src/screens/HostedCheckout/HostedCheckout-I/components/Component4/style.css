@@ -1,0 +1,148 @@
+.component-4 {
+  height: 96px;
+  width: 243px;
+}
+
+.component-4 .frame-2 {
+  background-color: #00000026;
+  border-radius: 1000px;
+  box-shadow: inset 0px 4px 10px #ffffff33;
+  height: 70px;
+  position: relative;
+}
+
+.component-4 .overlap-3 {
+  height: 79px;
+  position: absolute;
+  top: 17px;
+  width: 52px;
+}
+
+.component-4 .ellipse {
+  border-radius: 100px;
+  height: 35px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.component-4 .ellipse-2 {
+  background-color: #68a4ff;
+  border-radius: 35px;
+  height: 70px;
+  left: -17px;
+  position: relative;
+  top: -17px;
+  width: 70px;
+}
+
+.component-4 .lock {
+  height: 59px;
+  left: 5px;
+  position: absolute;
+  top: 18px;
+  width: 42px;
+}
+
+.component-4 .overlap-group-4 {
+  height: 65px;
+  position: relative;
+  top: -6px;
+}
+
+.component-4 .group-2 {
+  position: absolute;
+  top: 3px;
+}
+
+.component-4 .rectangle-6 {
+  background: linear-gradient(180deg, rgb(244.47, 247.41, 251.81) 0%, rgb(226.93, 229.66, 233.75) 100%);
+  border-radius: 7px;
+  box-shadow: inset 0px -5px 17px #00000066, inset 0px 4px 6px #ffffff80;
+  height: 36px;
+  position: absolute;
+  top: 29px;
+  width: 42px;
+}
+
+.component-4 .rectangle-7 {
+  background: linear-gradient(180deg, rgb(48.87, 131.32, 255) 0%, rgb(35.22, 120.58, 248.63) 100%);
+  border-radius: 2px;
+  height: 28px;
+  position: absolute;
+  top: 3px;
+  width: 9px;
+}
+
+.component-4 .stable-secure {
+  height: 28px;
+  left: 63px;
+  position: absolute;
+  top: 20px;
+  width: 156px;
+}
+
+.component-4 .property-1-5-default {
+  left: 5px;
+}
+
+.component-4 .property-1-5-variant-3 {
+  left: 11px;
+}
+
+.component-4 .overlap-3.property-1-5-default .ellipse {
+  left: 12px;
+}
+
+.component-4 .overlap-3.property-1-5-variant-3 .ellipse {
+  left: 6px;
+}
+
+.component-4 .overlap-3.property-1-5-default .lock {
+  transform: rotate(10deg);
+}
+
+.component-4 .overlap-3.property-1-5-variant-3 .lock {
+  transform: rotate(-10deg);
+}
+
+.component-4 .overlap-3.property-1-5-default .overlap-group-4 {
+  left: -3px;
+  width: 47px;
+}
+
+.component-4 .overlap-3.property-1-5-variant-3 .overlap-group-4 {
+  left: -2px;
+  width: 46px;
+}
+
+.component-4 .overlap-3.property-1-5-default .group-2 {
+  height: 43px;
+  left: 3px;
+  transform: rotate(-10deg);
+  width: 40px;
+}
+
+.component-4 .overlap-3.property-1-5-variant-3 .group-2 {
+  height: 47px;
+  left: 4px;
+  transform: rotate(10deg);
+  width: 38px;
+}
+
+.component-4 .overlap-3.property-1-5-default .rectangle-6 {
+  left: 3px;
+}
+
+.component-4 .overlap-3.property-1-5-variant-3 .rectangle-6 {
+  left: 2px;
+}
+
+.component-4 .overlap-3.property-1-5-default .rectangle-7 {
+  left: 25px;
+}
+
+.component-4 .overlap-3.property-1-5-variant-3 .rectangle-7 {
+  left: 19px;
+}

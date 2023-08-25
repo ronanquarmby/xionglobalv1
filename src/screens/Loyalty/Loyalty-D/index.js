@@ -1,0 +1,1 @@
+export { LoyaltyDesktop } from "./LoyaltyDesktop";

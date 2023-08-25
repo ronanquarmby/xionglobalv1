@@ -1,0 +1,698 @@
+.CB-d {
+  align-items: center;
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  height: 3528px;
+  position: relative;
+  overflow: hidden;
+}
+
+.CB-d .BG-elements {
+  height: 3374px;
+  align-self: center;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.CB-d .overlap-4 {
+  height: 3524px;
+  position: relative;
+}
+
+.CB-d .footer {
+  height: 315px;
+  left: 50px;
+  position: absolute;
+  top: 3163px;
+  width: 1179px;
+}
+
+.CB-d .start {
+  height: 638px;
+  left: 50px;
+  position: absolute;
+  top: 2525px;
+  width: 1179px;
+}
+
+.CB-d .overlap-group-5 {
+  height: 638px;
+  position: relative;
+}
+
+.CB-d .rectangle-8 {
+  height: 426px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 1179px;
+}
+
+.CB-d .gradient {
+  height: 638px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.CB-d .mouse {
+  height: 428px;
+  left: 0;
+  position: absolute;
+  top: 210px;
+  width: 1179px;
+}
+
+.CB-d .hero {
+  height: 607px;
+  left: 50px;
+  position: absolute;
+  top: 120px;
+  width: 1180px;
+}
+
+.CB-d .overlap-5 {
+  height: 598px;
+  position: relative;
+}
+
+.CB-d .rectangle-9 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.CB-d .gradient-2 {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1179px;
+}
+
+.CB-d .noize {
+  height: 3524px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.CB-d .nav-spacer {
+  height: 151px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.CB-d .main {
+  height: 574px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.CB-d .overlap-6 {
+  height: 654px;
+  left: 137px;
+  position: relative;
+  top: 14px;
+  width: 1143px;
+}
+
+.CB-d .text-block {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 0;
+  position: absolute;
+  top: 129px;
+}
+
+.CB-d .HT {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  position: relative;
+  width: 611px;
+}
+
+.CB-d .a-SIMPLE {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 50px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 611px;
+}
+
+.CB-d .FREE-SIMPLE {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    90deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 57px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2px;
+  position: relative;
+  text-fill-color: transparent;
+  width: 606.85px;
+}
+
+.CB-d .payment-solution-you {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 50px;
+  font-weight: 100;
+  height: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -10px;
+  position: relative;
+  width: 611px;
+}
+
+.CB-d .p {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 104px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: relative;
+  width: 585px;
+}
+
+.CB-d .element-of {
+  height: 654px;
+  left: 543px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.CB-d .section {
+  align-self: center;
+  height: 1785px;
+  position: relative;
+  width: 1280px;
+}
+
+.CB-d .TEXT-BLOCK {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 1525px;
+  left: 163px;
+  position: absolute;
+  top: 207px;
+}
+
+.CB-d .TEXT {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+  width: 493px;
+}
+
+.CB-d .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.CB-d .component-4 {
+  width: 446px;
+  height: 176px;
+  position: absolute;
+  top: 980px;
+  left: 750px;
+}
+
+.CB-d .text-wrapper-15 {
+  color: #7f64fb;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.42px;
+  line-height: 20.4px;
+  margin-top: -1px;
+  position: relative;
+  width: 491px;
+}
+
+.CB-d .text-wrapper-16 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 31px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: relative;
+  width: 493px;
+}
+
+.CB-d .text-wrapper-17 {
+  color: #272936;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.35px;
+  line-height: 16.8px;
+  position: relative;
+  width: 491px;
+}
+
+.CB-d .line-3 {
+  height: 53.17px;
+  margin-left: -2.67px;
+  object-fit: cover;
+  position: relative;
+  width: 5.33px;
+}
+
+.CB-d .frame-4 {
+  width: 446px;
+  height: 176px;
+  position: absolute;
+  top: 200px;
+  left: 750px;
+}
+
+.CB-d .frame-49 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 66px !important;
+}
+
+.CB-d .frame-5 {
+  background-size: 100% 100%;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.CB-d .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.CB-d .group-3 {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 11px;
+}
+
+.CB-d .group-9 {
+  left: 846px !important;
+  position: absolute !important;
+  top: 463px !important;
+}
+
+.CB-d .group-2 {
+  width: 446px;
+  height: 176px;
+  position: absolute;
+  top: 11px;
+  left: -20px;
+}
+
+.CB-d .overlap-wrapper {
+  height: 176px;
+  left: 760px;
+  position: absolute;
+  top: 726px;
+  width: 446px;
+}
+
+.CB-d .overlap-7 {
+  height: 176px;
+  left: 50px;
+  position: relative;
+  top: -2px;
+  width: 446px;
+}
+
+.CB-d .asset {
+  height: 119px;
+  left: 11px;
+  position: absolute;
+  top: 24px;
+  width: 382px;
+}
+
+.CB-d .clip-path-group {
+  height: 98px;
+  left: 21px;
+  position: absolute;
+  top: 34px;
+  width: 356px;
+}
+
+.CB-d .frame-lock {
+  width: 446px;
+  height: 176px;
+  position: absolute;
+  top: 1253px;
+  left: 752px;
+}
+
+.CB-d .WEB {
+  color: #1185c3;
+  font-family: "Bebas Kai-Regular", Helvetica;
+  font-size: 83px;
+  font-weight: 400;
+  height: 80px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000026;
+  top: -1px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.CB-d .frame-36 {
+  left: 121px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.CB-d .component-3 {
+  width: 446px;
+  height: 176px;
+  position: absolute;
+  top: 1529px !important;
+  left: 782px !important;
+}
+
+.CB-d .component-instance {
+  left: 846px;
+  position: absolute;
+  top: 1039px;
+}
+
+.CB-d .section-2 {
+  align-self: center;
+  height: 398px;
+  position: relative;
+  width: 1280px;
+}
+
+.CB-d .TEXT-wrapper {
+  align-items: center;
+  display: inline-flex;
+  gap: 70px;
+  left: 163px;
+  position: absolute;
+  top: 140px;
+}
+
+.CB-d .TEXT-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+  width: 493px;
+}
+
+.CB-d .div-4 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 27px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  margin-top: -1px;
+  position: relative;
+  width: 493px;
+}
+
+.CB-d .span {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 27px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 30.6px;
+}
+
+.CB-d .div-5 {
+  color: transparent;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.35px;
+  line-height: 16.8px;
+  position: relative;
+  width: 491px;
+  z-index: 9;
+}
+
+.CB-d .text-wrapper-19 {
+  color: #272936;
+}
+
+.CB-d .text-wrapper-20 {
+  color: #14a5ed;
+  cursor: pointer;
+}
+
+.CB-d .frame-7 {
+  align-items: center;
+  display: flex;
+  gap: 70px;
+  left: 709px;
+  position: absolute;
+  top: 140px;
+  width: 460px;
+}
+
+.CB-d .TEXT-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-right: -33px;
+  position: relative;
+  width: 493px;
+}
+
+.CB-d .line-4 {
+  height: 1px;
+  left: 163px;
+  position: absolute;
+  top: 74px;
+  width: 948px;
+}
+
+.CB-d .overlap-8 {
+  height: 154px;
+  left: 137px;
+  position: absolute;
+  top: 145px;
+  width: 323px;
+}
+
+.CB-d .text-wrapper-21 {
+  color: #e9edf3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 66px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 224px;
+}
+
+.CB-d .text-wrapper-22 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 66px;
+  font-weight: 500;
+  height: 79px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 75px;
+  white-space: nowrap;
+  width: 323px;
+}
+
+.CB-d .footer-section {
+  height: 344px;
+  margin-top: -43px;
+  position: relative;
+  width: 1278px;
+}
+
+.CB-d .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 307px;
+  left: 144px;
+  position: relative;
+  top: 41px;
+}
+
+.CB-d .XG-logo {
+  height: 31.84px;
+  position: relative;
+  width: 155.66px;
+}
+
+.CB-d .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -0.98px;
+  position: relative;
+}
+
+.CB-d .frame-wrapper {
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.CB-d .overlap-group-wrapper {
+  background-size: 100% 100%;
+  height: 39px;
+  overflow: hidden;
+}
+
+.CB-d .get-started-wrapper {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.CB-d .get-started-3 {
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.CB-d .div-7 {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.CB-d .shadows {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.CB-d .shadows-2 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.CB-d .rectangle-10 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.CB-d .group-4 {
+  height: 18px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+/* Continue with the rest of your classes... */

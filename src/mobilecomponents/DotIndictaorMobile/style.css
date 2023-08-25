@@ -1,0 +1,20 @@
+.dot-indictaor-m {
+  left: 16px;
+  position: relative;
+}
+
+.dot-indictaor-m.active-false {
+  background-color: #999999;
+  border-radius: 6px;
+  height: 12px;
+  opacity: 0.5;
+  top: 16px;
+  width: 12px;
+}
+
+.dot-indictaor-m.active-true {
+  background-color: #7f64fb;
+  border-radius: 8px;
+  height: 16px;
+  width: 16px;
+}

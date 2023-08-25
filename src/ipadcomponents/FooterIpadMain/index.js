@@ -1,0 +1,1 @@
+export { FooterIpad } from "./FooterIpad";

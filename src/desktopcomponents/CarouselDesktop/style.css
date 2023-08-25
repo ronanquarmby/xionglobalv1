@@ -1,0 +1,50 @@
+.carousel-d {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 560px;
+  padding: 40px 64px;
+  position: relative;
+  width: 1428px;
+}
+
+.carousel-d .slides-box {
+  align-self: center;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: auto;
+  overflow: hidden;
+}
+
+.carousel-d .slides-navigation {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.carousel-d .click-area {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 8px;
+  position: relative;
+}
+
+.carousel-d .slide-indicator {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 8px;
+  position: relative;
+}
+
+.carousel-d .dot-indictaor {
+  position: relative !important;
+}

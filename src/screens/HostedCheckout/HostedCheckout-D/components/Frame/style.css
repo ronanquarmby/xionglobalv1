@@ -1,0 +1,150 @@
+.frame-hc {
+  height: 51px;
+  position: relative;
+  width: 250px;
+}
+
+.frame-hc .text-wrapper {
+  color: #14a5ed;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  left: -2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 250px;
+}
+
+.frame-hc .overlap {
+  border-radius: 7px;
+  height: 51px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-hc .img {
+  height: 25px;
+  left: 46px;
+  position: absolute;
+  top: 12px;
+  width: 25px;
+}
+
+.frame-hc .div {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 22.7px;
+  font-style: italic;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 107px;
+}
+
+.frame-hc .overlap-group {
+  position: absolute;
+}
+
+.frame-hc .path {
+  height: 26px;
+  left: 38px;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.frame-hc.default {
+  border: 1.5px solid;
+  border-color: #14a5ed;
+  border-radius: 7px;
+}
+
+.frame-hc.variant-3 {
+  border: 1.5px solid;
+  border-color: #14a5ed;
+  border-radius: 7px;
+}
+
+.frame-hc.variant-4 {
+  border: 1.5px solid;
+  border-color: #14a5ed;
+  border-radius: 7px;
+}
+
+.frame-hc.default .overlap {
+  left: 143px;
+  width: 107px;
+}
+
+.frame-hc.variant-3 .overlap {
+  background-color: #14a5ed;
+  box-shadow: -4px 0px 8px #0000001a;
+  left: 143px;
+  width: 107px;
+}
+
+.frame-hc.variant-4 .overlap {
+  background-color: #14a5ed;
+  box-shadow: -4px 0px 8px #0000001a;
+  left: 143px;
+  width: 107px;
+}
+
+.frame-hc.variant-2 .overlap {
+  border: 1.5px solid;
+  border-color: #d9d9d9;
+  left: 0;
+  width: 120px;
+}
+
+.frame-hc.default .overlap-group {
+  left: -2px;
+  top: 0;
+  width: 143px;
+}
+
+.frame-hc.variant-3 .overlap-group {
+  color: #bfbfbf;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16.7px;
+  font-style: italic;
+  font-weight: 300;
+  left: -2px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  top: 10px;
+  width: 143px;
+}
+
+.frame-hc.variant-4 .overlap-group {
+  color: #bfbfbf;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16.7px;
+  font-style: italic;
+  font-weight: 300;
+  left: -2px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  top: 8px;
+  width: 143px;
+}
+
+.frame-hc.variant-2 .overlap-group {
+  border: 1.5px solid;
+  border-color: #d9d9d9;
+  border-radius: 7px;
+  height: 51px;
+  left: 130px;
+  top: 0;
+  width: 120px;
+}

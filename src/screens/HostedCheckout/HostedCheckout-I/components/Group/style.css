@@ -1,0 +1,213 @@
+.group {
+  background-size: 100% 100%;
+  height: 163px;
+  overflow: hidden;
+  width: 396px;
+}
+
+.group .overlap-group-2 {
+  height: 163px;
+  position: relative;
+}
+
+.group .line {
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 91px;
+  width: 395px;
+}
+
+.group .div-2 {
+  background-size: 100% 100%;
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 396px;
+}
+
+.group .text-wrapper-2 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12.5px;
+  font-weight: 400;
+  left: 171px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 140px;
+}
+
+.group .text-wrapper-3 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 11.1px;
+  font-weight: 400;
+  left: 197px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 142px;
+}
+
+.group .text-wrapper-4 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12.5px;
+  font-weight: 400;
+  left: 219px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 140px;
+}
+
+.group .div-3 {
+  background-size: 100% 100%;
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 396px;
+}
+
+.group .text-wrapper-5 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 9.7px;
+  font-weight: 700;
+  left: 163px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.group .text-wrapper-6 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 11.1px;
+  font-weight: 700;
+  left: 163px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+}
+
+.group .text-wrapper-7 {
+  color: #180f29;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 11.1px;
+  font-weight: 700;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+}
+
+.group .img-2 {
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 396px;
+}
+
+.group .text-wrapper-8 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12.5px;
+  font-weight: 400;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 141px;
+}
+
+.group .text-wrapper-9 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 11.1px;
+  font-weight: 400;
+  left: 315px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 142px;
+}
+
+.group .text-wrapper-10 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12.5px;
+  font-weight: 400;
+  left: 337px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 141px;
+}
+
+.group .text-wrapper-11 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12.2px;
+  font-weight: 700;
+  left: 171px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 118px;
+}
+
+.group .text-wrapper-12 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12.2px;
+  font-weight: 700;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 117px;
+}
+
+.group .text-wrapper-13 {
+  color: #606060;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 9.7px;
+  font-weight: 700;
+  left: 162px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+}
+
+.group.property-1-1-default {
+  background-image: url(../../img/clip-path-group-9.png);
+}
+
+.group.property-1-1-variant-2 {
+  background-image: url(../../img/clip-path-group-6.png);
+}
+
+.group.property-1-1-default .div-2 {
+  background-image: url(../../img/clip-path-group-8.png);
+}
+
+.group.property-1-1-variant-2 .div-2 {
+  background-image: url(../../img/clip-path-group-5.png);
+}
+
+.group.property-1-1-default .div-3 {
+  background-image: url(../../img/clip-path-group-7.png);
+}
+
+.group.property-1-1-variant-2 .div-3 {
+  background-image: url(../../img/clip-path-group-4.png);
+}

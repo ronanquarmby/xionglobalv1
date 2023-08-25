@@ -1,0 +1,143 @@
+.element-dipad {
+  height: 490px;
+  left: 20px;
+  position: relative;
+  top: 20px;
+  width: 1138px;
+}
+
+.element-d .desktop-shaddow-d {
+  height: 490px;
+  left: 452px;
+  position: absolute;
+  top: 0;
+  width: 686px;
+}
+
+.element-d .asset-d {
+  height: 740px;
+  object-fit: cover;
+  position: absolute;
+  top: -20px;
+  width: 776px;
+}
+
+.element-d .bullet-points-d {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 26px;
+  left: 0;
+  position: absolute;
+  top: 256px;
+}
+
+.element-d .create-d {
+  height: 20.5px;
+  margin-right: -2px;
+  position: relative;
+  width: 445px;
+  cursor: pointer;
+}
+
+.element-d .create-one-time-or-d {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 21px;
+  font-weight: 600;
+  height: 20px;
+  left: 35px;
+  letter-spacing: -0.53px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 408px;
+  cursor: pointer;
+}
+
+.element-d .overlap-group-d {
+  border-radius: 26.16px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.element-d .shadows-m {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 26.16px;
+  box-shadow: inset 3.27px 3.27px 2.18px #aeaec033, inset -2.18px -2.18px 2.18px #ffffffb2;
+  height: 20px;
+  left: 0;
+  mix-blend-mode: color-burn;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 20px;
+}
+
+.element-d .path-d {
+  height: 10px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 10px;
+  border-radius: inherit;
+  cursor: pointer;
+}
+
+.element-d .integrate {
+  height: 20px;
+  position: relative;
+  width: 443px;
+  cursor: pointer;
+}
+
+.element-d .text-wrapper-d {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  height: 19px;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 408px;
+  cursor: pointer;
+}
+
+.element-d .div-d {
+  height: 20px;
+  margin-right: -2px;
+  position: relative;
+  width: 445px;
+}
+
+.element-d .p-d {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  height: 20px;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 408px;
+  cursor: pointer;
+}
+
+.element-d .create-d.selected .create-one-time-or-d,
+.element-d .integrate.selected .text-wrapper-d,
+.element-d .div-d.selected .p-d,
+.element-d .div-d.selected .p-d, 
+.element-d .create-d.selected .overlap-group-d .path-d {
+  color: #14a5ed; /* Change this to the desired color */
+}

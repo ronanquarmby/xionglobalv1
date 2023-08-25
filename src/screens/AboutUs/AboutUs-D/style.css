@@ -1,0 +1,608 @@
+.about-d {
+  align-items: center;
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  height: 3528px;
+  position: relative; 
+  overflow: hidden;
+}
+
+.about-d .BG-elements {
+  height: 3374px;
+  align-self: center;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.about-d .overlap-4 {
+  height: 3524px;
+  position: relative;
+}
+
+.about-d .footer {
+  height: 315px;
+  left: 50px;
+  position: absolute;
+  top: 3163px;
+  width: 1179px;
+}
+
+.about-d .start {
+  height: 638px;
+  left: 50px;
+  position: absolute;
+  top: 2525px;
+  width: 1179px;
+}
+
+.about-d .overlap-group-5 {
+  height: 638px;
+  position: relative;
+}
+
+.about-d .rectangle-8 {
+  height: 426px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 1179px;
+}
+
+.about-d .gradient {
+  height: 638px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.about-d .mouse {
+  height: 428px;
+  left: 0;
+  position: absolute;
+  top: 210px;
+  width: 1179px;
+}
+
+.about-d .hero {
+  height: 607px;
+  left: 50px;
+  position: absolute;
+  top: 120px;
+  width: 1180px;
+}
+
+.about-d .overlap-5 {
+  height: 598px;
+  position: relative;
+}
+
+.about-d .rectangle-9 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.about-d .gradient-2 {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1179px;
+}
+
+.about-d .noize {
+  height: 3524px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.about-d .nav-spacer {
+  height: 151px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.about-d .main-3 {
+  height: 611px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.about-d .overlap-21 {
+  height: 312px;
+  left: 133px;
+  position: relative;
+  top: 180px;
+  width: 915px;
+}
+
+.about-d .ABOUT-US {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    90deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 201px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -10.05px;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 0;
+  width: 915px;
+}
+
+.about-d .xion-global-was-wrapper {
+  align-self: center;
+  width: 1280px;
+  height: 742px;
+  margin-top: -43px;
+  position: relative;
+}
+
+.about-d .xion-global-was-2 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 1280px;
+  font-family: Titillium Web, Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 22.7px;
+  position: absolute;
+  top: 173px;
+}
+
+.about-d .text-wrapper-102 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.7px;
+}
+
+.about-d .text-wrapper-103 {
+  font-weight: 100;
+}
+
+.about-d .section-8 {
+  height: 684px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.about-d .our-e-commerce-2 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 100;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: 22.7px;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  width: 1054px;
+}
+
+.about-d .FREE-SIMPLE-7 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    90deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 60px;
+  font-weight: 500;
+  left: 464px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 84px;
+  width: 352px;
+}
+
+.about-d .section-9 {
+  height: 498px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.about-d .FREE-SIMPLE-8 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    90deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 60px;
+  font-weight: 500;
+  left: 516px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 84px;
+  width: 249px;
+}
+
+.about-d .frame-23 {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 20px;
+  justify-content: center;
+  left: 112px;
+  position: absolute;
+  top: 205px;
+  width: 1054px;
+}
+
+.about-d .group-13 {
+  background-color: #d9d9d903;
+  height: 58px;
+  position: relative;
+  width: 159px;
+}
+
+.about-d .vector-20 {
+  height: 43px;
+  left: 44px;
+  position: absolute;
+  top: 7px;
+  width: 72px;
+}
+
+.about-d .vector-21 {
+  height: 31px;
+  left: 23px;
+  position: absolute;
+  top: 14px;
+  width: 115px;
+}
+
+.about-d .vector-22 {
+  height: 37px;
+  left: 29px;
+  position: absolute;
+  top: 11px;
+  width: 102px;
+}
+
+.about-d .vector-23 {
+  height: 25px;
+  left: 28px;
+  position: absolute;
+  top: 17px;
+  width: 104px;
+}
+
+.about-d .vector-24 {
+  height: 39px;
+  left: 42px;
+  position: absolute;
+  top: 9px;
+  width: 76px;
+}
+
+.about-d .vector-25 {
+  height: 25px;
+  left: 20px;
+  position: absolute;
+  top: 17px;
+  width: 119px;
+}
+
+.about-d .vector-26 {
+  height: 22px;
+  left: 25px;
+  position: absolute;
+  top: 18px;
+  width: 110px;
+}
+
+.about-d .vector-27 {
+  height: 24px;
+  left: 21px;
+  position: absolute;
+  top: 19px;
+  width: 118px;
+}
+
+.about-d .vector-28 {
+  height: 17px;
+  left: 18px;
+  position: absolute;
+  top: 24px;
+  width: 119px;
+}
+
+.about-d .vector-29 {
+  height: 26px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 113px;
+}
+
+.about-d .vector-30 {
+  height: 47px;
+  left: 46px;
+  position: absolute;
+  top: 6px;
+  width: 68px;
+}
+
+.about-d .vector-31 {
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  top: 21px;
+  width: 106px;
+}
+
+.about-d .vector-32 {
+  height: 21px;
+  left: 23px;
+  position: absolute;
+  top: 20px;
+  width: 114px;
+}
+
+.about-d .vector-33 {
+  height: 24px;
+  left: 23px;
+  position: absolute;
+  top: 17px;
+  width: 114px;
+}
+
+.about-d .vector-34 {
+  height: 45px;
+  left: 56px;
+  position: absolute;
+  top: 7px;
+  width: 43px;
+}
+
+.about-d .vector-35 {
+  height: 24px;
+  left: 19px;
+  position: absolute;
+  top: 18px;
+  width: 125px;
+}
+
+.about-d .vector-36 {
+  height: 35px;
+  left: 45px;
+  position: absolute;
+  top: 12px;
+  width: 70px;
+}
+
+.about-d .vector-37 {
+  height: 21px;
+  left: 29px;
+  position: absolute;
+  top: 19px;
+  width: 100px;
+}
+
+.about-d .section-10 {
+  height: 389px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.about-d .FREE-SIMPLE-9 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    90deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 568px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 84px;
+  width: 145px;
+}
+
+.about-d .frame-24 {
+  height: 52px;
+  left: 484px;
+  position: absolute;
+  top: 160px;
+  width: 305px;
+}
+
+.about-d .aaa-ba-e-2 {
+  height: 52px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.about-d .img-7 {
+  height: 44px;
+  left: 185px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 104px;
+}
+
+.about-d .footer-section {
+  height: 344px;
+  margin-top: -43px;
+  position: relative;
+  width: 1278px;
+}
+
+.about-d .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 307px;
+  left: 144px;
+  position: relative;
+  top: 41px;
+}
+
+.about-d .XG-logo {
+  height: 31.84px;
+  position: relative;
+  width: 155.66px;
+}
+
+.about-d .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -0.98px;
+  position: relative;
+}
+
+.about-d .frame-wrapper {
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.about-d .overlap-group-wrapper {
+  background-size: 100% 100%;
+  height: 39px;
+  overflow: hidden;
+}
+
+.about-d .get-started-wrapper {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.about-d .get-started-3 {
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.about-d .div-7 {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.about-d .shadows {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.about-d .shadows-2 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.about-d .rectangle-10 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.about-d .group-4 {
+  height: 18px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+/* Continue with the rest of your classes... */

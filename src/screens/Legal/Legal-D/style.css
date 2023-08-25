@@ -1,0 +1,325 @@
+.legal-d {
+  align-items: center;
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  height: 8500px;
+  position: relative; 
+  overflow: hidden;
+}
+
+.legal-d .BG-elements {
+  height: 8282px;
+  align-self: center;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.legal-d .overlap-4 {
+  height: 8282px;
+  position: relative;
+}
+
+.legal-d .footer {
+  height: 315px;
+  left: 50px;
+  position: absolute;
+  top: 3163px;
+  width: 1179px;
+}
+
+.legal-d .start {
+  height: 638px;
+  left: 50px;
+  position: absolute;
+  top: 2525px;
+  width: 1179px;
+}
+
+.legal-d .overlap-group-5 {
+  height: 638px;
+  position: relative;
+}
+
+.legal-d .rectangle-8 {
+  height: 426px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 1179px;
+}
+
+.legal-d .gradient {
+  height: 638px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.legal-d .mouse {
+  height: 428px;
+  left: 0;
+  position: absolute;
+  top: 210px;
+  width: 1179px;
+}
+
+.legal-d .hero {
+  height: 607px;
+  left: 50px;
+  position: absolute;
+  top: 120px;
+  width: 1180px;
+}
+
+.legal-d .overlap-5 {
+  height: 598px;
+  position: relative;
+}
+
+.legal-d .rectangle-9 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.legal-d .gradient-2 {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1179px;
+}
+
+.legal-d .noize {
+  height: 3524px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.legal-d .nav-spacer {
+  height: 151px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.legal-d .main-3 {
+  height: 611px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.legal-d .ABOUT-US-2 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    90deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 201px;
+  font-weight: 500;
+  left: 133px;
+  letter-spacing: -10.05px;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 182px;
+  width: 793px;
+}
+
+.legal-d .section-5 {
+  height: 2640px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.legal-d .frame-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 113px;
+  position: relative;
+  top: 166px;
+}
+
+.legal-d .text-wrapper-23 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 31px;
+  font-weight: 100;
+  height: 62px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  margin-top: -1px;
+  position: relative;
+  width: 443px;
+}
+
+.legal-d .text-wrapper-24 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 10px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 11.3px;
+  position: relative;
+  width: 1054px;
+}
+
+.legal-d .section-6 {
+  height: 2587px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.legal-d .last-updated {
+  color: #000000;
+  font-family: "undefined-Regular", Helvetica;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 11.3px;
+  position: relative;
+  width: 1054px;
+}
+
+.legal-d .section-7 {
+  width: 1280px;
+  height: 1766px;
+  margin-top: 180px;
+  position: relative;
+}
+
+.legal-d .footer-section {
+  height: 344px;
+  margin-top: -43px;
+  position: relative;
+  width: 1278px;
+}
+
+.legal-d .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 307px;
+  left: 144px;
+  position: relative;
+  top: 41px;
+}
+
+.legal-d .XG-logo {
+  height: 31.84px;
+  position: relative;
+  width: 155.66px;
+}
+
+.legal-d .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -0.98px;
+  position: relative;
+}
+
+.legal-d .frame-wrapper {
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.legal-d .overlap-group-wrapper {
+  background-size: 100% 100%;
+  height: 39px;
+  overflow: hidden;
+}
+
+.legal-d .get-started-wrapper {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.legal-d .get-started-3 {
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.legal-d .div-7 {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.legal-d .shadows {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.legal-d .shadows-2 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.legal-d .rectangle-10 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.legal-d .group-4 {
+  height: 18px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+/* Continue with the rest of your classes... */

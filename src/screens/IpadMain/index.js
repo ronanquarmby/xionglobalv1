@@ -1,0 +1,1 @@
+export { Ipad } from "./Ipad";

@@ -1,0 +1,2362 @@
+.element-ipad {
+  align-items: center;
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  height: 5391px;
+  overflow: hidden;
+  position: relative;
+}
+
+.element-ipad .BG-elements {
+  height: 7539px;
+  align-self: center;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.element-ipad .overlap {
+  height: 5361px;
+  position: relative;
+  top: 1px;
+}
+
+.element-ipad .footer {
+  height: 275px;
+  left: 29px;
+  position: absolute;
+  top: 5057px;
+  width: 709px;
+}
+
+.element-ipad .start {
+  height: 289px;
+  left: 29px;
+  position: absolute;
+  top: 4768px;
+  width: 709px;
+}
+
+.element-ipad .overlap-group-2 {
+  height: 289px;
+  position: relative;
+}
+
+.element-ipad .rectangle {
+  height: 286px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 709px;
+}
+
+.element-ipad .gradient {
+  height: 289px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 709px;
+}
+
+.element-ipad .mouse {
+  height: 288px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 709px;
+}
+
+.element-ipad .element-nd-ipad {
+  height: 574px;
+  left: 29px;
+  position: absolute;
+  top: 2700px;
+  width: 710px;
+}
+
+.element-ipad .overlap-2 {
+  height: 574px;
+  position: relative;
+}
+
+.element-ipad .img {
+  height: 571px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 709px;
+}
+
+.element-ipad .gradient-2 {
+  height: 574px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 709px;
+}
+
+.element-ipad .mouse-2 {
+  height: 574px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 708px;
+}
+
+.element-ipad .decrease {
+  height: 464px;
+  left: 28px;
+  position: absolute;
+  top: 2300px;
+  width: 710px;
+}
+
+.element-ipad .overlap-3 {
+  height: 464px;
+  position: relative;
+}
+
+.element-ipad .rectangle-2 {
+  height: 462px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 709px;
+}
+
+.element-ipad .mouse-3 {
+  height: 464px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 710px;
+}
+
+.element-ipad .hero {
+  height: 957px;
+  left: 29px;
+  position: absolute;
+  top: 120px;
+  width: 709px;
+}
+
+.element-ipad .overlap-4 {
+  height: 1200px;
+  position: relative;
+}
+
+.element-ipad .rectangle-3 {
+  height: 954px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 709px;
+}
+
+.element-ipad .gragient {
+  height: 1200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 709px;
+}
+
+.element-ipad .mouse-4 {
+  height: 957px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 709px;
+}
+
+.element-ipad .noize {
+  height: 5361px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 768px;
+}
+
+.element-ipad .nav-spacer {
+  height: 175px;
+  margin-top: -43px;
+  position: relative;
+  width: 768px;
+}
+
+.element-ipad .landing-p-section {
+  height: 497px;
+  margin-top: -43px;
+  position: relative;
+  width: 766px;
+}
+
+.element-ipad .overlap-5 {
+  height: 64px;
+  left: -1px;
+  position: absolute;
+  top: 465px;
+  width: 767px;
+}
+
+.element-ipad .logos {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 20px;
+  justify-content: center;
+  left: 29px;
+  padding: 0px 30px;
+  position: absolute;
+  top: 41px;
+  width: 708px;
+}
+
+.element-ipad .asset-2 {
+  height: 23px;
+  position: relative;
+  width: 105px;
+}
+
+.element-ipad .asset-3 {
+  height: 23px;
+  position: relative;
+  width: 46px;
+}
+
+.element-ipad .asset-4 {
+  height: 23px;
+  position: relative;
+  width: 121.5px;
+}
+
+.element-ipad .asset-5 {
+  height: 23px;
+  position: relative;
+  width: 109px;
+}
+
+.element-ipad .asset-6 {
+  height: 23px;
+  position: relative;
+  width: 115px;
+}
+
+.element-ipad .TRUSTED-BY {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 767px;
+}
+
+.element-ipad .span {
+  font-weight: 100;
+}
+
+.element-ipad .text-wrapper-3 {
+  font-family: "Oswald", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.element-ipad .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20.4px;
+  position: absolute;
+  text-align: center;
+  top: 400px;
+  width: 766px;
+}
+
+.element-ipad .element-menu {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 10px;
+  justify-content: center;
+  left: 30px;
+  position: absolute;
+  top: 248px;
+  width: 706px;
+}
+
+.element-ipad .div-wrapper {
+  background-image: url(../../../static/img/desktop-block-header.png); 
+  background-size: 100% 100%;
+  height: 51.68px;
+  position: relative;
+  width: 233.28px;
+}
+
+.element-ipad .text-wrapper-5 {
+  color: #14a5ed;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 199px;
+}
+
+.element-ipad .element-2 {
+  background-image: url(../../../static/img/desktop-block-header.png);
+  background-size: 100% 100%;
+  height: 51.68px;
+  margin-bottom: -0.34px;
+  position: relative;
+  width: 233.28px;
+}
+
+.element-ipad .SEAMLESS {
+  color: #14a5ed;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 199px;
+}
+
+.element-ipad .BUILDING-LOYALTY {
+  color: #14a5ed;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 198px;
+}
+
+.element-ipad .overlap-6 {
+  height: 134px;
+  left: 0;
+  position: absolute;
+  top: 97px;
+  width: 766px;
+}
+
+.element-ipad .PAYMENTS-REWARDS {
+  color: #f3f3f3;
+  font-family: "Oswald", Helvetica;
+  font-size: 53px;
+  font-weight: 400;
+  height: 79px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 54px;
+  width: 766px;
+}
+
+.element-ipad .text-wrapper-6 {
+  font-weight: 500;
+}
+
+.element-ipad .text-wrapper-7 {
+  font-family: "Titillium Web", Helvetica;
+  font-size: 66px;
+  font-weight: 100;
+}
+
+.element-ipad .MAKIN-CRYPTO {
+  color: #f3f3f3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 86px;
+  font-weight: 400;
+  height: 68px;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -25px;
+  white-space: nowrap;
+  width: 766px;
+}
+
+.element-ipad .text-wrapper-8 {
+  font-weight: 100;
+  letter-spacing: 0;
+}
+
+.element-ipad .text-wrapper-9 {
+  font-weight: 100;
+  letter-spacing: -12.9px;
+}
+
+.element-ipad .text-wrapper-10 {
+  font-family: "Oswald", Helvetica;
+  font-size: 73px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.element-ipad .top-ipad-section {
+  height: 512px;
+  margin-top: -43px;
+  position: relative;
+  width: 765px;
+}
+
+.element-ipad .overlap-7 {
+  height: 479px;
+  left: 49px;
+  position: relative;
+  top: 141px;
+  width: 723px;
+}
+
+.element-ipad .bottom-left-shadow {
+  height: 159px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 320px;
+  width: 288px;
+}
+
+.element-ipad .component {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.element-ipad .one {
+  height: 605px !important;
+  top: -70px !important;
+  width: 513px !important;
+}
+
+.element-ipad .WITH-OURFREE-SIMPLE {
+  height: 136px;
+  left: 11px;
+  position: absolute;
+  top: 32px;
+  width: 259px;
+}
+
+.element-ipad .overlap-8 {
+  height: 136px;
+  position: relative;
+  width: 253px;
+}
+
+.element-ipad .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 28px;
+  font-weight: 100;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.element-ipad .payment-solution-you {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 28px;
+  font-weight: 100;
+  left: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 67px;
+  width: 252px;
+}
+
+.element-ipad .text-wrapper-12 {
+  letter-spacing: -1.54px;
+}
+
+.element-ipad .text-wrapper-13 {
+  letter-spacing: 0;
+  line-height: 26.6px;
+}
+
+.element-ipad .FREE-SIMPLE {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 239px;
+  font-family: Oswald, Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  left: 1px;
+  -webkit-background-clip: text !important;
+}
+
+.element-ipad .wallet-section {
+  display: flex;
+  align-self: center;
+  height: 476px;
+  margin-top: -43px;
+  position: relative;
+  width: 780px;
+}
+
+.element-ipad .wallet-image {
+  height: 384px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 327px;
+}
+
+.element-ipad .text-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 267px;
+  left: 62px;
+  position: absolute;
+  top: 122px;
+  width: 312px;
+}
+
+.element-ipad .a-SEAMLESS-SUITE-OF {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 75px;
+  line-height: 28.4px;
+  margin-right: -13px;
+  margin-top: -1px;
+  position: relative;
+  width: 325px;
+}
+
+.element-ipad .text-wrapper-14 {
+  font-weight: 100;
+  letter-spacing: -0.75px;
+}
+
+.element-ipad .text-wrapper-15 {
+  font-family: "Oswald", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 1.98px;
+  line-height: 25px;
+}
+
+.element-ipad .text-wrapper-16 {
+  font-family: "Oswald", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 2.16px;
+  line-height: 27.2px;
+}
+
+.element-ipad .text-wrapper-17 {
+  color: #272936;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  position: relative;
+  width: 312px;
+}
+
+.element-ipad .frame {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 312px;
+}
+
+.element-ipad .text-wrapper-18 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.element-ipad .text-wrapper-19 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.element-ipad .currencies-section {
+  height: 837px;
+  margin-top: -43px;
+  position: relative;
+  width: 762px;
+}
+
+.element-ipad .crystal-wrapper {
+  height: 25px;
+  left: 71px;
+  position: absolute;
+  top: 763px;
+  width: 144px;
+}
+
+.element-ipad .crystal {
+  height: 25px;
+  position: relative;
+  width: 148px;
+}
+
+.element-ipad .overlap-group-3 {
+  height: 25px;
+  left: 47px;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.element-ipad .rectangle-4 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.element-ipad .text-wrapper-20 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 5px;
+  font-style: italic;
+  font-weight: 700;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 29px;
+}
+
+.element-ipad .POWERED-BY {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 7px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 41px;
+}
+
+.element-ipad .text-wrapper-21 {
+  font-size: 8px;
+  font-weight: 100;
+}
+
+.element-ipad .text-wrapper-22 {
+  font-family: "Oswald", Helvetica;
+  font-size: 6px;
+  font-weight: 500;
+}
+
+.element-ipad .element-black-blocks {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  justify-content: center;
+  left: 48px;
+  position: absolute;
+  top: 650px;
+  width: 667px;
+}
+
+.element-ipad .b {
+  height: 106px;
+  margin-left: -10px;
+  position: relative;
+  width: 221px;
+}
+
+.element-ipad .overlap-9 {
+  height: 106px;
+  position: relative;
+  width: 217px;
+}
+
+.element-ipad .element-button {
+  height: 106px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 217px;
+}
+
+.element-ipad .overlap-group-4 {
+  height: 106px;
+  position: relative;
+}
+
+.element-ipad .rectangle-5 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0) 64.81%);
+  border-radius: 10px;
+  filter: blur(28px);
+  height: 89px;
+  left: 6px;
+  opacity: 0.5;
+  position: absolute;
+  top: 17px;
+  width: 211px;
+}
+
+.element-ipad .rectangle-6 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(0, 0, 0) 0%,
+    rgb(0, 0, 0) 69.79%,
+    rgb(0, 0, 0) 100%
+  );
+  border-radius: 10px;
+  box-shadow: inset 0px 1px 5px #ffffff99, inset 0px -8px 36px #0000004c;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 211px;
+}
+
+.element-ipad .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 11px;
+  font-style: italic;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: 167px;
+}
+
+.element-ipad .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 211px;
+}
+
+.element-ipad .overlap-wrapper {
+  height: 106px;
+  position: relative;
+  width: 221px;
+}
+
+.element-ipad .we-adhere-to-BSA-CIP {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 11px;
+  font-style: italic;
+  font-weight: 700;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: 191px;
+}
+
+.element-ipad .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+  width: 211px;
+}
+
+.element-ipad .overlap-group-wrapper {
+  height: 106px;
+  margin-right: -14px;
+  position: relative;
+  width: 221px;
+}
+
+.element-ipad .our-screening {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 11px;
+  font-style: italic;
+  font-weight: 700;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 175px;
+}
+
+.element-ipad .overlap-10 {
+  height: 560px;
+  left: -259px;
+  position: absolute;
+  top: 50px;
+  width: 1280px;
+}
+
+.element-ipad .security-header-text {
+  height: 117px;
+  left: 285px;
+  position: absolute;
+  top: 443px;
+  width: 709px;
+}
+
+.element-ipad .text-wrapper-26 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 644px;
+}
+
+.element-ipad .SECURITY-AND {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 709px;
+}
+
+.element-ipad .text-wrapper-27 {
+  font-family: "Oswald", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.element-ipad .carousel-instance {
+  gap: 23px !important;
+  height: 377px !important;
+  left: -20px !important;
+  padding: 66px 131px !important;
+  position: absolute !important;
+  top: 75px !important;
+  width: 1280px !important;
+}
+
+.element-ipad .design-component-instance-node {
+  gap: 6px !important;
+  padding: unset !important;
+}
+
+.element-ipad .coins-overlay {
+  height: 156px;
+  left: 259px;
+  position: absolute;
+  top: 163px;
+  width: 762px;
+}
+
+.element-ipad .overlap-11 {
+  height: 156px;
+  left: 599px;
+  position: absolute;
+  top: 0;
+  width: 245px;
+}
+
+.element-ipad .rectangle-7 {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 166px;
+}
+
+.element-ipad .rectangle-8 {
+  background: linear-gradient(180deg, rgb(243, 243, 243) 0%, rgba(243, 243, 243, 0) 100%);
+  filter: blur(4px);
+  height: 130px;
+  left: 3px;
+  position: absolute;
+  top: 13px;
+  width: 242px;
+}
+
+.element-ipad .overlap-12 {
+  height: 154px;
+  left: -94px;
+  position: absolute;
+  top: 0;
+  width: 246px;
+}
+
+.element-ipad .rectangle-9 {
+  -webkit-backdrop-filter: blur(6px) brightness(100%);
+  backdrop-filter: blur(6px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0) 100%);
+  border: 0.76px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(245, 251, 242, 0.44), rgba(245, 251, 242, 0)) 1;
+  border-radius: 11.42px;
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.element-ipad .rectangle-10 {
+  background: linear-gradient(180deg, rgb(243, 243, 243) 0%, rgba(243, 243, 243, 0) 100%);
+  filter: blur(4px);
+  height: 130px;
+  left: 10px;
+  position: absolute;
+  top: 12px;
+  width: 236px;
+}
+
+.element-ipad .header-text {
+  height: 125px;
+  left: 319px;
+  position: absolute;
+  top: 0;
+  width: 642px;
+}
+
+.element-ipad .expand-your-reach {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 642px;
+}
+
+.element-ipad .text-wrapper-28 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.element-ipad .text-wrapper-29 {
+  font-weight: 700;
+}
+
+.element-ipad .header {
+  height: 79px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 505px;
+}
+
+.element-ipad .overlap-group-5 {
+  height: 79px;
+  position: relative;
+  top: -1px;
+}
+
+.element-ipad .GET-PAID-IN {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 38px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 204px;
+}
+
+.element-ipad .text-wrapper-30 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 302px;
+  height: 79px;
+  font-family: Oswald, Helvetica;
+  font-size: 33px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  left: 203px;
+  -webkit-background-clip: text !important;
+}
+
+.element-ipad .costs-section {
+  align-self: center;
+  height: 568px;
+  margin-top: -10px;
+  position: relative;
+  width: 780px;
+}
+
+.element-ipad .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 1.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 374px;
+  width: 644px;
+}
+
+.element-ipad .element-white-blocks {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 20px;
+  justify-content: center;
+  left: 82px;
+  position: absolute;
+  top: 277px;
+}
+
+.element-ipad .b-2 {
+  height: 55.82px;
+  position: relative;
+  width: 189.99px;
+}
+
+.element-ipad .overlap-group-6 {
+  border-radius: 10px;
+  height: 56px;
+  position: relative;
+  width: 188px;
+}
+
+.element-ipad .shadows {
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+  border-radius: 10px;
+  box-shadow: inset 6px 8px 8px #aeaec08c, inset -6px -6px 6px #ffffffb2;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 188px;
+}
+
+.element-ipad .text-wrapper-32 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 700;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 105px;
+}
+
+.element-ipad .shadows-2 {
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+  border-radius: 10px;
+  box-shadow: inset 6px 8px 8px #aeaec08c, inset -6px -6px 6px #ffffffb2;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 188px;
+}
+
+.element-ipad .text-wrapper-33 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 144px;
+}
+
+.element-ipad .b-3 {
+  height: 55.82px;
+  margin-right: -2px;
+  position: relative;
+  width: 189.99px;
+}
+
+.element-ipad .text-wrapper-34 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 700;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 116px;
+}
+
+.element-ipad .text-block-2 {
+  height: 132px;
+  left: 50px;
+  position: absolute;
+  top: 113px;
+  width: 663px;
+}
+
+.element-ipad .cut-your-transaction {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: -0.28px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 644px;
+}
+
+.element-ipad .DECREASE-YOUR-COSTS {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 663px;
+}
+
+.element-ipad .text-wrapper-35 {
+  font-family: "Oswald", Helvetica;
+  font-size: 33px;
+  font-weight: 500;
+}
+
+.element-ipad .bottom-ipad-section {
+  height: 414px;
+  margin-top: -10px;
+  position: relative;
+  width: 765px;
+}
+
+.element-ipad .overlap-13 {
+  height: 499px;
+  left: 7px;
+  position: absolute;
+  top: -20px;
+  width: 474px;
+}
+
+.element-ipad .read-button-instance {
+  border-radius: 6px !important;
+  height: 27px !important;
+  left: 70px !important;
+  position: absolute !important;
+  top: 381px !important;
+  width: 159px !important;
+}
+
+.element-ipad .read-button-2 {
+  font-size: 14px !important;
+  top: 5px !important;
+  width: 159px !important;
+}
+
+.element-ipad .ipad-shaddow-2 {
+  height: 499px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 474px;
+}
+
+.element-ipad .overlap-14 {
+  height: 499px;
+  position: relative;
+}
+
+.element-ipad .group {
+  height: 466px;
+  left: -11px;
+  position: absolute;
+  top: 18px;
+  transform: rotate(90deg);
+  width: 495px;
+}
+
+.element-ipad .overlap-group-7 {
+  height: 466px;
+  position: relative;
+}
+
+.element-ipad .shadows-3 {
+  height: 175px;
+  left: 319px;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-90deg);
+  width: 176px;
+}
+
+.element-ipad .frame-2 {
+  border-radius: 20px;
+  box-shadow: 80px 80px 150px #00000040, 20px 20px 50px #00000059;
+  height: 466px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 334px;
+}
+
+.element-ipad .API-VID-TO-PLACE {
+  background-color: #000000;
+  border-radius: 25px;
+  height: 338px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 466px;
+}
+
+.element-ipad .API-GIF-SCREEN {
+  width: 462px;
+  height: 328px;
+  position: absolute;
+  top: 10px;
+  border-radius: 25px;
+}
+
+.element-ipad .asset-7 {
+  height: 339px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 474px;
+}
+
+.element-ipad .text-block-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  height: 419px;
+  left: 498px;
+  position: absolute;
+  top: -48px;
+  width: 210px;
+}
+
+.element-ipad .frame-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 146px;
+  position: relative;
+  width: 210px;
+}
+
+.element-ipad .SUPERCHARGING-CRYPTO {
+  color: #faf8f8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 25px;
+  font-weight: 100;
+  height: 92px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: 225px;
+}
+
+.element-ipad .text-wrapper-36 {
+  line-height: 26px;
+}
+
+.element-ipad .text-wrapper-37 {
+  font-size: 30.2px;
+  line-height: 31.4px;
+}
+
+.element-ipad .WITH-STATE-OF-THE {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  text-align: right;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 210px;
+  height: 154px;
+  margin-top: -9px;
+  margin-bottom: -90px;
+  font-family: Oswald, Helvetica;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 30.2px;
+  position: relative;
+  -webkit-background-clip: text !important;
+}
+
+.element-ipad .text-wrapper-38 {
+  color: #e9edf3;
+  letter-spacing: 0;
+}
+
+.element-ipad .text-wrapper-39 {
+  color: #e9edf3;
+  letter-spacing: -0.56px;
+}
+
+.element-ipad .frame-4 {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 13px;
+  margin-bottom: -13px;
+  margin-left: -7px;
+  padding: 0px 0px 13px;
+  position: relative;
+  width: 217px;
+}
+
+.element-ipad .API-integration {
+  color: #faf7f7;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: 217px;
+}
+
+.element-ipad .text-wrapper-40 {
+  font-size: 12px;
+  line-height: 17.4px;
+}
+
+.element-ipad .text-wrapper-41 {
+  font-size: 12px;
+  line-height: 14.4px;
+}
+
+.element-ipad .SDK-integration {
+  color: #faf7f7;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  text-align: right;
+  width: 216px;
+}
+
+.element-ipad .iframe-integration {
+  color: #faf7f7;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  text-align: right;
+  width: 217px;
+}
+
+.element-ipad .iframe-section {
+  height: 732px;
+  margin-left: -1px;
+  margin-right: -1px;
+  margin-top: -43px;
+  position: relative;
+  width: 770px;
+}
+
+.element-ipad .overlap-15 {
+  height: 661px;
+  left: 260px;
+  position: absolute;
+  top: 168px;
+  width: 489px;
+}
+
+.element-ipad .right-text {
+  height: 61px;
+  left: 268px;
+  position: absolute;
+  top: 212px;
+  width: 221px;
+}
+
+.element-ipad .xionpay {
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  top: 34px;
+  width: 122px;
+}
+
+.element-ipad .OUR-CHECKOUT {
+  color: #000000;
+  font-family: "Oswald", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 0;
+  line-height: 27px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 221px;
+}
+
+.element-ipad .text-wrapper-42 {
+  letter-spacing: 3.9px;
+}
+
+.element-ipad .text-wrapper-43 {
+  letter-spacing: -1.04px;
+}
+
+.element-ipad .IPHONE {
+  height: 661px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 417px;
+}
+
+.element-ipad .overlap-16 {
+  height: 661px;
+  position: relative;
+}
+
+.element-ipad .group-2 {
+  height: 660px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 415px;
+}
+
+.element-ipad .frame-wrapper {
+  background-image: url(../../../static/img/shadows-3.png);
+  background-size: 100% 100%;
+  height: 671px;
+  position: relative;
+  top: -1px;
+  width: 426px;
+}
+
+.element-ipad .frame-5 {
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-shadow: 80px 80px 150px #00000040, 20px 20px 50px #00000059;
+  height: 494px;
+  opacity: 0.8;
+  position: relative;
+  top: 1px;
+  width: 245px;
+}
+
+.element-ipad .IFRAME-TO-PLACE {
+  background-color: #000000;
+  border-radius: 30px;
+  height: 230px;
+  left: -117px;
+  position: absolute;
+  top: 134px;
+  transform: rotate(90deg);
+  width: 485px;
+}
+
+.element-ipad .i-f {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.element-ipad .left-text {
+  height: 40px;
+  left: 39px;
+  position: absolute;
+  top: 380px;
+  width: 202px;
+}
+
+.element-ipad .line {
+  height: 4px;
+  left: 33px;
+  position: absolute;
+  top: 38px;
+  width: 167px;
+}
+
+.element-ipad .text-wrapper-44 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 28px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26.3px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.element-ipad .loyalty-CTA-section {
+  height: 536px;
+  margin-top: -43px;
+  position: relative;
+  width: 765px;
+}
+
+.element-ipad .CTA-section {
+  height: 217px;
+  left: 1px;
+  position: absolute;
+  top: 350px;
+  width: 765px;
+}
+
+.element-ipad .CTA-shaddow {
+  height: 19px;
+  left: 231px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 167px;
+  width: 303px;
+}
+
+.element-ipad .enjoy-the-freedom-of {
+  color: #1185c3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1.32px;
+  line-height: 27.6px;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 765px;
+}
+
+.element-ipad .CTA-buttons {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  left: 146px;
+  position: absolute;
+  top: 46px;
+  width: 472px;
+}
+
+.element-ipad .design-component-instance-node-2 {
+  border-radius: 6px !important;
+  height: 29px !important;
+  width: 168px !important;
+}
+
+.element-ipad .design-component-instance-node-3 {
+  font-size: 15px !important;
+  top: 8px !important;
+  width: 168px !important;
+}
+
+.element-ipad .loyalty-section {
+  height: 188px;
+  left: 1px;
+  position: absolute;
+  top: 162px;
+  width: 765px;
+}
+
+.element-ipad .element-black-blocks-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 89px;
+  width: 765px;
+}
+
+.element-ipad .b-4 {
+  height: 80px;
+  position: relative;
+  width: 218.19px;
+}
+
+.element-ipad .overlap-17 {
+  height: 80px;
+  position: relative;
+  width: 216px;
+}
+
+.element-ipad .element-d-button {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 216px;
+}
+
+.element-ipad .overlap-group-8 {
+  height: 80px;
+  position: relative;
+}
+
+.element-ipad .rectangle-11 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0) 64.81%);
+  border-radius: 10px;
+  filter: blur(28px);
+  height: 67px;
+  left: 6px;
+  opacity: 0.5;
+  position: absolute;
+  top: 13px;
+  width: 211px;
+}
+
+.element-ipad .rectangle-12 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(0, 0, 0) 0%,
+    rgb(0, 0, 0) 69.79%,
+    rgb(0, 0, 0) 100%
+  );
+  border-radius: 10px;
+  box-shadow: inset 0px 1px 5px #ffffff99, inset 0px -8px 36px #0000004c;
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 211px;
+}
+
+.element-ipad .monetize-blogs-apps {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 700;
+  height: 47px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 166px;
+}
+
+.element-ipad .works-with-any-all {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 700;
+  height: 47px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 158px;
+}
+
+.element-ipad .activate-loyalty {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 700;
+  height: 47px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 158px;
+}
+
+.element-ipad .header-text-2 {
+  height: 114px;
+  left: 60px;
+  position: absolute;
+  top: -71px;
+  width: 644px;
+}
+
+.element-ipad .strengthen-your {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: 644px;
+}
+
+.element-ipad .header-2 {
+  height: 48px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 426px;
+}
+
+.element-ipad .text-wrapper-45 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 38px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  width: 137px;
+}
+
+.element-ipad .text-wrapper-46 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 280px;
+  height: 39px;
+  font-family: Oswald, Helvetica;
+  font-size: 33px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  left: 146px;
+  -webkit-background-clip: text !important;
+}
+
+.element-ipad .cash-back-section {
+  height: 359px;
+  margin-top: -43px;
+  position: relative;
+  width: 767px;
+}
+
+.element-ipad .text-block-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 424px;
+  position: absolute;
+  top: 122px;
+  width: 281px;
+}
+
+.element-ipad .CASH-BACK {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  height: 72px;
+  margin-left: -32px;
+  position: relative;
+}
+
+.element-ipad .text-wrapper-47 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 33px;
+  font-weight: 100;
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: 313px;
+}
+
+.element-ipad .text-wrapper-48 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-align: right;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 309px;
+  height: 72px;
+  margin-top: -5px;
+  font-family: Oswald, Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  -webkit-background-clip: text !important;
+}
+
+.element-ipad .text-wrapper-49 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -11px;
+  position: relative;
+  text-align: right;
+  width: 292px;
+}
+
+.element-ipad .cash-back-image {
+  height: 263px;
+  left: 32px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 379px;
+}
+
+.element-ipad .start-section {
+  height: 381px;
+  margin-top: -43px;
+  position: relative;
+  width: 765px;
+}
+
+.element-ipad .overlap-18 {
+  height: 361px;
+  left: 58px;
+  position: relative;
+  top: 36px;
+  width: 706px;
+}
+
+.element-ipad .start-image {
+  height: 361px;
+  left: 302px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 404px;
+}
+
+.element-ipad .CTA-buttons-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  left: 2px;
+  position: absolute;
+  top: 272px;
+  width: 356px;
+}
+
+.element-ipad .text-block-5 {
+  height: 123px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 332px;
+}
+
+.element-ipad .overlap-group-9 {
+  height: 123px;
+  position: relative;
+  top: -1px;
+}
+
+.element-ipad .text-wrapper-50 {
+  color: #e9edf3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 50px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.element-ipad .text-wrapper-51 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 332px;
+  height: 79px;
+  font-family: Oswald, Helvetica;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 44px;
+  left: 0;
+  -webkit-background-clip: text !important;
+}
+
+.element-ipad .footer-section {
+  height: 344px;
+  margin-top: -43px;
+  position: relative;
+  width: 643px;
+}
+
+.element-ipad .frame-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 109px;
+  position: relative;
+  top: 89px;
+  width: 643px;
+}
+
+.element-ipad .XG-logo {
+  height: 26.59px;
+  position: relative;
+  width: 130px;
+}
+
+.element-ipad .sections {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 37px;
+  position: relative;
+}
+
+.element-ipad .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.element-ipad .text-wrapper-52 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-ipad .text-wrapper-53 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.element-ipad .follow-us {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 33px;
+  position: relative;
+}
+
+.element-ipad .follow-us-2 {
+  height: 81.5px;
+  position: relative;
+  width: 98.78px;
+}
+
+.element-ipad .text-wrapper-54 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+}
+
+.element-ipad .social {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+}
+
+.element-ipad .telegram-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.49px !important;
+  margin-left: -0.5px !important;
+  margin-top: -0.51px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-ipad .twitter-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.5px !important;
+  margin-top: -0.5px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-ipad .medium-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.49px !important;
+  margin-top: -0.51px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-ipad .linkedin-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.49px !important;
+  margin-right: -0.5px !important;
+  margin-top: -0.51px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-ipad .text-wrapper-55 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.element-ipad .t-cs {
+  height: 17.49px;
+  position: relative;
+  width: 61px;
+}
+
+.element-ipad .overlap-group-10 {
+  height: 17px;
+  position: relative;
+  top: -1px;
+}
+
+.element-ipad .text-wrapper-56 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 6px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element-ipad .all-rights-reserved {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 6px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.element-ipad .NAV {
+  background-color: #f3f3f3;
+  height: 120px;
+  left: calc(50% - 384px);
+  position: absolute;
+  top: 0;
+  width: 768px;
+}
+
+.element-ipad .frame-7 {
+  align-items: center;
+  display: flex;
+  gap: 262px;
+  left: 29px;
+  position: relative;
+  top: 47px;
+  width: 709px;
+}
+
+.element-ipad .xion-logo {
+  height: 30.71px;
+  position: relative;
+  width: 156.98px;
+}
+
+.element-ipad .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -1px;
+  position: relative;
+}
+
+.element-ipad .GS-button-2 {
+  height: 39px;
+  position: relative;
+  width: 228.02px;
+}
+
+.element-ipad .overlap-group-11 {
+  background-image: url(../../../static/img/shadows-10-9.png);
+  background-size: 100% 100%;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.element-ipad .rectangle-13 {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 226px;
+}
+
+.element-ipad .get-started-3 {
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 27px;
+  left: 0;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 226px;
+  cursor: pointer; 
+}
+
+.element-ipad .get-started-3:hover {
+  animation: shake 5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translateX(-5px); /* Move left */
+  }
+  20%, 80% {
+    transform: translateX(5px); /* Move right */
+  }
+  30%, 50%, 70% {
+    transform: translateX(-3px); /* Move left */
+  }
+  40%, 60% {
+    transform: translateX(3px); /* Move right */
+  }
+}
+
+.element-ipad .div-3 {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.element-ipad .shadows-4 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.element-ipad .shadows-5 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.element-ipad .rectangle-14 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.element-ipad .group-3 {
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}

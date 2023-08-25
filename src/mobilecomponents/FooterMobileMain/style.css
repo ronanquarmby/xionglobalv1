@@ -1,0 +1,228 @@
+.mf-container {
+    width: 360px;
+    position: relative;  
+    top: 10px;
+}
+ 
+ .footer-mf {
+  width: 327px;
+  height: 196px;
+  margin-top: 1px;
+  position: relative;
+ }
+  
+.start-mf {
+  height: 200px;
+  left: 17px;
+  position: absolute; 
+  width: 327px;
+}
+  
+.overlap-group-mf {
+  background-image: url(../../../static/img/rectangle-1960-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 198px;
+  position: relative;
+  top: 2px;
+}
+
+  
+.gradient-mf {
+  height: 198px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 327px;
+  }
+  
+.start-section-mf {
+    height: 252px;
+    position: relative;
+    width: 356px;
+    top: -265px;
+  }
+  
+.overlap-13-mf {
+    height: 238px;
+    left: 30px;
+    position: relative;
+    top: 25px;
+    width: 328px;
+  }
+  
+.phone-image-mf {
+  object-fit: cover;
+  width: 243px;
+  height: 238px;
+  position: absolute;
+  top: 15px;
+  left: 65px;
+  }
+  
+.text-wrapper-47-mf {
+    color: #e9edf3;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 30px;
+    font-weight: 100;
+    left: -20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 122px;
+    width: 87px;
+  }
+  
+.text-wrapper-48-mf {
+    -webkit-text-fill-color: transparent;
+    color: #0000;
+    letter-spacing: 0;
+    text-fill-color: transparent;
+    background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    width: 140px;
+    height: 35px;
+    font-family: Oswald, Helvetica;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+    top: 153px;
+    left: -20px;
+    -webkit-background-clip: text !important;
+  }
+  
+.footer-section-mf {
+    height: 196px;
+    margin-top: 28px;
+    position: relative;
+    width: 298px;
+  }
+
+  
+.XG-logo-mf {
+  width: 107px;
+  height: 21.89px;
+  position: relative;
+  top: -225px;
+  left: 20px;
+}
+  
+.follow-us-mf {
+  flex-direction: column;
+  flex: none;
+  align-items: flex-start;
+  gap: 33px;
+  display: inline-flex;
+  position: relative;
+  left: 65px;
+  top: -155px;
+}
+  
+.follow-us-2-mf {
+    height: 92.8px;
+    margin-right: -6px;
+    position: relative;
+    width: 136px;
+  }
+  
+.overlap-group-9-mf {
+    height: 17px;
+    left: 69px;
+    position: absolute;
+    top: 75px;
+    width: 61px;
+  }
+  
+.text-wrapper-49-mf {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 6px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 0;
+  }
+  
+.all-rights-reserved-mf {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 6px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 8px;
+  }
+  
+.text-wrapper-50-mf {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 30px;
+    width: 130px;
+  }
+  
+.social-mf {
+  align-items: flex-start;
+  gap: 6.5px;
+  width: 130px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  justify-content: flex-end;
+  }
+  
+.telegram-footer-instance {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-left: -0.5px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+  
+.twitter-footer-instance-mf { 
+    left: unset !important;
+    margin-bottom: -0.5px !important;
+    margin-top: -0.5px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+.medium-footer-instance-mf { 
+    left: unset !important;
+    margin-bottom: -0.5px !important;
+    margin-top: -0.5px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+.linkedin-footer-instance-mf { 
+    left: unset !important;
+    margin-bottom: -0.5px !important;
+    margin-top: -0.5px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+  
+.design-component-instance-node-2 {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+  

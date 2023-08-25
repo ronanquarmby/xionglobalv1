@@ -1,0 +1,345 @@
+.if-container {
+    width: 768px;
+    position: relative; 
+    top: -280px; 
+}
+ 
+ .footer-if {
+  height: 275px;
+  position: absolute;
+  width: 709px;
+  top: 43px;
+}
+  
+.start-if {
+  height: 289px;
+  left: 29px;
+  position: absolute;
+  top: 1px;
+  width: 709px;
+}
+  
+.overlap-group-2-if {
+    height: 289px;
+    position: relative;
+  }
+  
+.rectangle-if {
+  height: 286px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 341px;
+  width: 709px;
+  }
+  
+.gradient-if {
+  height: 289px;
+  left: 0;
+  position: absolute;
+  top: 341px;
+  width: 709px;
+  }
+  
+.mouse-if {
+  height: 288px;
+  left: 0;
+  position: absolute;
+  top: 341px;
+  width: 709px;
+}
+
+.start-section-if {
+  height: 381px;
+  margin-top: -43px;
+  position: relative;
+  width: 765px;
+  }
+
+.overlap-18-if {
+    height: 361px;
+    left: 38px;
+    position: relative;
+    top: 36px;
+    width: 706px;
+  }
+  
+  .start-image-if {
+    height: 361px;
+    left: 302px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 404px;
+  }
+  
+  .CTA-buttons-2-if  {
+    align-items: flex-start;
+    display: flex;
+    gap: 20px;
+    left: 2px;
+    position: absolute;
+    top: 272px;
+    width: 356px;
+  }
+  
+  .text-block-5-if  {
+    height: 123px;
+    left: 0;
+    position: absolute;
+    top: 140px;
+    width: 332px;
+  }
+  
+  .overlap-group-9-if  {
+    height: 123px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .text-wrapper-50-if  {
+    color: #e9edf3;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 50px;
+    font-weight: 100;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 318px;
+  }
+  
+  .text-wrapper-51-if  {
+    -webkit-text-fill-color: transparent;
+    color: #0000;
+    letter-spacing: 0;
+    text-fill-color: transparent;
+    background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    width: 332px;
+    height: 79px;
+    font-family: Oswald, Helvetica;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: normal;
+    position: absolute;
+    top: 44px;
+    left: 0;
+    -webkit-background-clip: text !important;
+  }
+  
+  .footer-section-if  {
+    height: 344px;
+    margin-top: -43px;
+    position: relative;
+    width: 643px;
+  }
+  
+  .frame-6-if {
+    align-items: flex-start;
+    gap: 85px;
+    width: 643px;
+    display: flex;
+    position: relative;
+    top: 89px;
+    left: 45px;
+    justify-content: space-around;
+}
+  
+  .XG-logo-if  {
+    height: 26.59px;
+    position: relative;
+    width: 130px;
+  }
+  
+  .sections-if  {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 37px;
+    position: relative;
+  }
+  
+  .div-2-if  {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 15px;
+    position: relative;
+  }
+  
+  .text-wrapper-52-if  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .text-wrapper-53-if  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 8px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .follow-us-if  {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 33px;
+    position: relative;
+  }
+  
+  .follow-us-2-if  {
+    height: 81.5px;
+    position: relative;
+    width: 98.78px;
+  }
+  
+.text-wrapper-54-if {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  }
+  
+ .social-if  {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  }
+
+  .if-container .telegram-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 21px;
+  }  
+  
+  .if-container .telegram-footer-instance-if  {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-left: -0.5px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .if-container .twitter-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+  }
+  
+  
+  .if-container .twitter-footer-instance-if  {
+    left: unset !important;
+    margin-bottom: -0.5px !important;
+    margin-top: -0.5px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .if-container .medium-footer-instance-if  {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .if-container .medium-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    width: 21px;
+  }
+  
+.if-container .linkedin-footer-instance-if  {
+    left: unset !important;
+    margin-bottom: -0.49px !important;
+    margin-right: -0.5px !important;
+    margin-top: -0.51px !important;
+    position: relative !important;
+    top: unset !important;
+  }
+
+  .if-container .linkedin-footer {
+    height: 21px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 21px;
+  }  
+  
+.text-wrapper-55-if  {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  }
+  
+.t-cs-if  {
+    height: 17.49px;
+    position: relative;
+    width: 61px;
+  }
+  
+.overlap-group-10-if {
+    height: 17px;
+    position: relative;
+    top: -1px;
+  }
+  
+.text-wrapper-56-if  {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 6px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  }
+  
+.all-rights-reserved-if  {
+    color: #e8e8e8;
+    font-family: "Titillium Web", Helvetica;
+    font-size: 6px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+  }

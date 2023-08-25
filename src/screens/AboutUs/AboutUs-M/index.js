@@ -1,0 +1,1 @@
+export { AUM } from "./AboutUsMobile";

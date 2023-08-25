@@ -1,0 +1,6 @@
+.anti-clockwise {
+  background: conic-gradient(from 180deg at 50% 50%, rgb(223, 234, 235) 0deg, rgb(35.4, 29, 61) 360deg);
+  height: 720px;
+  position: relative;
+  width: 720px;
+}

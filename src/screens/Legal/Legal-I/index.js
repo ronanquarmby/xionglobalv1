@@ -1,0 +1,1 @@
+export { LegalI } from "./LegalIpad";

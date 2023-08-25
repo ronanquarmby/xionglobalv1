@@ -1,0 +1,1 @@
+export { LegalD } from "./LegalDesktop";

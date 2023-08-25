@@ -1,0 +1,1 @@
+export { LegalM } from "./LegalMobile";

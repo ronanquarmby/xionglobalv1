@@ -1,0 +1,1 @@
+export { IpadMenu } from "./IpadMenu";

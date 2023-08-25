@@ -1,0 +1,36 @@
+.CS-button {
+  border: 1px solid;
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.CS-button .div {
+  font-family: "Opinion Pro Extended-Light", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 226px;
+}
+
+.CS-button.property-1-1-default {
+  border-color: #14a5ed;
+}
+
+.CS-button.property-1-1-variant-2 {
+  border-color: #7f64fb;
+}
+
+.CS-button.property-1-1-default .div {
+  color: #14a5ed;
+}
+
+.CS-button.property-1-1-variant-2 .div {
+  color: #7f64fb;
+}

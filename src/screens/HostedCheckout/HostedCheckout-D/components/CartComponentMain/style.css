@@ -1,0 +1,25 @@
+.component {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.component.property-1-4-default {
+  height: 58px;
+  width: 309px;
+}
+
+.component.property-1-4-variant-3 {
+  height: 59px;
+  width: 309px;
+}
+
+.component.property-1-4-variant-4 {
+  height: 59px;
+  width: 310px;
+}
+
+.component.property-1-4-variant-2 {
+  height: 59px;
+  width: 309px;
+}

@@ -1,0 +1,55 @@
+.telegram {
+  border: 1px none;
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.telegram .overlap-group-wrapper {
+  height: 28px;
+}
+
+.telegram .overlap-group {
+  height: 29px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 29px;
+}
+
+.telegram .shadows-m {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 26.16px;
+  box-shadow: inset 3.27px 3.27px 2.18px #aeaec033, inset -2.18px -2.18px 2.18px #ffffffb2;
+  height: 28px;
+  left: 1px;
+  mix-blend-mode: color-burn;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-180deg);
+  width: 28px;
+}
+
+.telegram .path {
+  height: 13px;
+  left: 6px;
+  position: absolute;
+  top: 9px;
+  width: 15px;
+}
+
+.telegram .img {
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: 11px;
+  width: 8px;
+}
+
+.telegram .ellipse {
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}

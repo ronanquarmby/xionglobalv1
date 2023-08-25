@@ -1,0 +1,14 @@
+.medium-footer {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  width: 21px;
+}
+
+.medium-footer.property-1-3-default {
+  top: 0;
+}
+
+.medium-footer.property-1-3-variant-2 {
+  top: -1px;
+}

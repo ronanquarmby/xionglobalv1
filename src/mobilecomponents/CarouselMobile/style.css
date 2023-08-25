@@ -1,0 +1,71 @@
+.carousel-m {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 560px;
+  padding: 40px 64px;
+  position: relative;
+  width: 1428px;
+}
+
+.carousel-m .slides-box {
+  height: 229px;
+  position: relative;
+  width: 360px;
+}
+
+.carousel-m .slides-navigation {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.carousel-m .click-area {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 8px;
+  position: relative;
+}
+
+.carousel-m .slide-indicator {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 8px;
+  position: relative;
+}
+
+.carousel-m .dot-indictaor-instance {
+  left: unset !important;
+  top: unset !important;
+}
+
+.carousel.three {
+  left: 16px;
+  top: 1282px;
+}
+
+.carousel.one {
+  top: 16px;
+}
+
+.carousel.two {
+  left: 16px;
+  top: 649px;
+}
+
+.carousel.four {
+  left: 16px;
+  top: 1915px;
+}
+
+.carousel.five {
+  left: 16px;
+  top: 2548px;
+}

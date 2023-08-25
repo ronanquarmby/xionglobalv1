@@ -1,0 +1,2268 @@
+.element-d {
+  align-items: center; 
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  height: 7535px;
+  overflow: hidden;
+  position: relative;
+}
+
+.element-d .BG-elements {
+  height: 7533px;
+  align-self: center;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.element-d .overlap {
+  height: 7533px;
+  position: relative;
+}
+
+.element-d .footer {
+  height: 315px;
+  left: 50px;
+  position: absolute;
+  top: 7170px;
+  width: 1179px;
+}
+
+.element-d .start {
+  height: 638px;
+  left: 50px;
+  position: absolute;
+  top: 6532px;
+  width: 1179px;
+}
+
+.element-d .overlap-group-2 {
+  height: 638px;
+  position: relative;
+}
+
+.element-d .rectangle {
+  height: 426px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 1179px;
+}
+
+.element-d .gradient {
+  height: 638px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.element-d .mouse {
+  position: absolute;
+  width: 1179px;
+  height: 428px;
+  background-size: cover;
+  pointer-events: none; /* This ensures the mouse doesn't interact with the element itself */
+}
+
+.element-d .element-ipad-d {
+  height: 852px;
+  left: 50px;
+  position: absolute;
+  top: 3840px;
+  width: 1180px;
+}
+
+.element-d .overlap-2 {
+  height: 852px;
+  position: relative;
+}
+
+.element-d .img {
+  height: 850px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1180px;
+}
+
+.element-d .img-2 {
+  height: 852px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1180px;
+}
+
+.element-d .decrease {
+  height: 624px;
+  left: 50px;
+  position: absolute;
+  top: 3324px;
+  width: 1179px;
+}
+
+.element-d .overlap-3 {
+  height: 623px;
+  position: relative;
+}
+
+.element-d .rectangle-2 {
+  height: 621px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1178px;
+}
+
+.element-d .mouse-2 {
+  height: 622px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.element-d .hero {
+  height: 1634px;
+  left: 50px;
+  position: absolute;
+  align-self: auto;
+  top: 120px;
+  width: 1180px;
+}
+
+.element-d .overlap-4 {
+  height: 1634px;
+  position: relative;
+}
+
+.element-d .rectangle-3 {
+  height: 1356px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.element-d .gradient-2 {
+  height: 1632px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: auto;
+}
+
+.element-d .mouse-3 {
+  height: 1358px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: auto;
+}
+
+.element-d .noize {
+  height: 7533px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.element-d .nav-spacer {
+  height: 151px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .landing-p-section {
+  height: 714px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .logos {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 25px;
+  justify-content: center;
+  left: 49px;
+  padding: 0px 30px;
+  position: absolute;
+  top: 686px;
+  width: 1180px;
+}
+
+.element-d .asset-2 {
+  height: 32px;
+  position: relative;
+  width: 146px;
+}
+
+.element-d .asset-3 {
+  height: 32px;
+  position: relative;
+  width: 63px;
+}
+
+.element-d .asset-4 {
+  height: 32px;
+  position: relative;
+  width: 174px;
+}
+
+.element-d .asset-5 {
+  height: 32px;
+  position: relative;
+  width: 151px;
+}
+
+.element-d .asset-6 {
+  height: 31.83px;
+  position: relative;
+  width: 160px;
+}
+
+.element-d .TRUSTED-BY {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 29px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 622px;
+  width: 1280px;
+}
+
+.element-d .span {
+  font-weight: 100;
+}
+
+.element-d .text-wrapper-3 {
+  font-family: "Oswald", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.element-d .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: 520px;
+  width: 1023px;
+}
+
+.element-d .element-menu {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  left: 128px;
+  position: absolute;
+  top: 415px;
+  width: 1023px;
+}
+
+.element-d .INCREASING-REVENUE-wrapper {
+  background-image: url(../../../static/img/desktop-block-header.png);
+  background-size: 100% 100%;
+  height: 51.68px;
+  margin-bottom: -0.34px;
+  margin-left: -0.36px;
+  position: relative;
+  width: 233.28px;
+}
+
+.element-d .text-wrapper-5 {
+  color: #14a5ed;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 199px;
+}
+
+.element-d .div-wrapper {
+  background-image: url(../../../static/img/desktop-block-header.png);
+  background-size: 100% 100%;
+  height: 51.68px;
+  margin-bottom: -0.34px;
+  position: relative;
+  width: 233.28px;
+}
+
+.element-d .SEAMLESS {
+  color: #14a5ed;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 199px;
+}
+
+.element-d .BUILDING-LOYALTY {
+  color: #14a5ed;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 2.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 198px;
+}
+
+.element-d .PAYMENTS-REWARDS {
+  color: #f3f3f3;
+  font-family: "Oswald", Helvetica;
+  font-size: 82px;
+  font-weight: 400;
+  height: 79px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 264px;
+  white-space: nowrap;
+  width: 1280px;
+}
+
+.element-d .text-wrapper-6 {
+  font-weight: 500;
+}
+
+.element-d .text-wrapper-7 {
+  font-family: "Titillium Web", Helvetica;
+  font-size: 95px;
+  font-weight: 100;
+}
+
+.element-d .MAKIN-CRYPTO {
+  color: #f3f3f3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 122px;
+  font-weight: 400;
+  height: 101px;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 152px;
+  white-space: nowrap;
+  width: 1280px;
+}
+
+.element-d .text-wrapper-8 {
+  font-weight: 100;
+  letter-spacing: 0;
+}
+
+.element-d .text-wrapper-9 {
+  font-weight: 100;
+  letter-spacing: -18.3px;
+}
+
+.element-d .text-wrapper-10 {
+  font-family: "Oswald", Helvetica;
+  font-size: 109px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.element-d .top-ipad-section {
+  height: 799px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .overlap-5 {
+  height: 742px;
+  left: 110px;
+  position: relative;
+  top: 182px;
+  width: 1140px;
+}
+
+.element-d .bottom-left-shadow {
+  height: 279px;
+  left: 444px;
+  object-fit: cover;
+  position: absolute;
+  top: 463px;
+  width: 520px;
+}
+
+.element-d .component {
+  left: 2px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.element-d .one {
+  height: 790px !important;
+  top: -70px !important;
+  width: 786px !important;
+}
+
+.element-d .WITH-OUR-FREE-SIMPLE {
+  height: 235px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 446px;
+}
+
+.element-d .overlap-6 {
+  height: 236px;
+  position: relative;
+  top: -1px;
+}
+
+.element-d .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 50px;
+  font-weight: 100;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 443px;
+}
+
+.element-d .frame {
+  height: 181px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 443px;
+}
+
+.element-d .overlap-group-3 {
+  height: 181px;
+  position: relative;
+  top: -1px;
+}
+
+.element-d .payment-solution-you {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 50px;
+  font-weight: 100;
+  left: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 75px;
+  width: 443px;
+}
+
+.element-d .text-wrapper-12 {
+  letter-spacing: -1.25px;
+}
+
+.element-d .text-wrapper-13 {
+  letter-spacing: 0;
+  line-height: 47.5px;
+}
+
+.element-d .FREE-SIMPLE {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 333px;
+  height: 79px;
+  font-family: Oswald, Helvetica;
+  font-size: 57px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 2px;
+  -webkit-background-clip: text !important;
+}
+
+
+.element-d .wallet-section {
+  display: flex;
+  height: 652px;
+  margin-top: -43px;
+  position: relative;
+  align-self: center;
+}
+
+.element-d .overlap-7 {
+  height: 649px;
+  position: relative;
+  top: -27px;
+  width: 1085px;
+}
+
+.element-d .wallet-image {
+  height: 649px;
+  left: 532px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 553px;
+}
+
+.element-d .text-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  left: 0;
+  position: absolute;
+  top: 160px;
+  width: 545px;
+}
+
+.element-d .a-SEAMLESS-SUITE-OF {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 41px;
+  font-weight: 400;
+  height: 139px;
+  line-height: 46.5px;
+  margin-top: -1px;
+  position: relative;
+  width: 545px;
+}
+
+.element-d .text-wrapper-14 {
+  font-weight: 100;
+  letter-spacing: -2.46px;
+}
+
+.element-d .text-wrapper-15 {
+  font-weight: 100;
+  letter-spacing: -1.23px;
+}
+
+.element-d .text-wrapper-16 {
+  font-family: "Oswald", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: 3.24px;
+  line-height: 40.9px;
+}
+
+.element-d .text-wrapper-17 {
+  color: #272936;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 106px;
+  letter-spacing: -0.5px;
+  line-height: 24px;
+  position: relative;
+  width: 491px;
+}
+
+.element-d .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.element-d .text-wrapper-18 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 23px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.element-d .text-wrapper-19 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.element-d .currencies-section {
+  height: 1180px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .crystal {
+  height: 30px;
+  left: 138px;
+  position: absolute;
+  top: 1111px;
+  width: 194px;
+}
+
+.element-d .overlap-group-4 {
+  height: 27px;
+  left: 76px;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.element-d .rectangle-4 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.element-d .text-wrapper-20 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 6px;
+  font-style: italic;
+  font-weight: 700;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 34px;
+}
+
+.element-d .POWERED-BY {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 68px;
+}
+
+.element-d .text-wrapper-21 {
+  font-family: "Oswald", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.element-d .element-black-text-blocks {
+  align-items: flex-start;
+  display: flex;
+  gap: 41px;
+  justify-content: center;
+  left: 61px;
+  position: absolute;
+  top: 924px;
+  width: 1159px;
+}
+
+.element-d .b {
+  height: 167.5px;
+  position: relative;
+  width: 359px;
+}
+
+.element-d .overlap-8 {
+  height: 168px;
+  position: relative;
+  width: 359px;
+}
+
+.element-d .element-button {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.element-d .overlap-group-5 {
+  height: 168px;
+  position: relative;
+}
+
+.element-d .rectangle-5 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0.608) 64.81%);
+  border-radius: 10px;
+  filter: blur(28px);
+  height: 140px;
+  left: 9px;
+  opacity: 0.5;
+  position: absolute;
+  top: 27px;
+  width: 350px;
+}
+
+.element-d .rectangle-6 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(2, 2, 2) 0%,
+    rgb(0, 0, 0) 69.79%,
+    rgb(0, 0, 0) 100%
+  );
+  border-radius: 10px;
+  box-shadow: inset 0px 1px 5px #ffffff99, inset 0px -8px 36px #0000004c;
+  height: 140px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.element-d .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 700;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 320px;
+}
+
+.element-d .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 700;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 235px;
+}
+
+.element-d .we-adhere-to-BSA-CIP {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  width: 320px;
+}
+
+.element-d .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 700;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 170px;
+}
+
+.element-d .our-screening {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 320px;
+}
+
+.element-d .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 700;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 219px;
+}
+
+.element-d .security-text {
+  height: 190px;
+  left: 83px;
+  position: absolute;
+  top: 674px;
+  width: 1114px;
+}
+
+.element-d .text-wrapper-26 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 1114px;
+}
+
+.element-d .SECURITY-AND {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 1114px;
+}
+
+.element-d .text-wrapper-27 {
+  font-family: "Oswald", Helvetica;
+  font-size: 31px;
+  font-weight: 500;
+}
+
+.element-d .overlap-9 {
+  height: 377px;
+  left: 0;
+  position: absolute;
+  top: 289px;
+  width: 1280px;
+}
+
+.element-d .carousel-instance {
+  height: 377px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1280px !important;
+}
+
+.element-d .design-component-instance-node {
+  gap: 6px !important;
+  padding: unset !important;
+}
+
+.element-d .coins-overlay {
+  height: 193px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 1280px;
+}
+
+.element-d .rectangle-7 {
+  -webkit-backdrop-filter: blur(6px) brightness(100%);
+  backdrop-filter: blur(6px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0) 100%);
+  border: 0.76px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(245, 251, 242, 0.44), rgba(245, 251, 242, 0)) 1;
+  border-radius: 11.42px;
+  height: 193px;
+  left: 926px;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.element-d .rectangle-8 {
+  -webkit-backdrop-filter: blur(6px) brightness(100%);
+  backdrop-filter: blur(6px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0) 100%);
+  border: 0.76px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(245, 251, 242, 0.44), rgba(245, 251, 242, 0)) 1;
+  border-radius: 11.42px;
+  height: 193px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 334px;
+}
+
+.element-d .text-header {
+  height: 174px;
+  left: 134px;
+  position: absolute;
+  top: 115px;
+  width: 1011px;
+}
+
+.element-d .expand-your-reach {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 116px;
+  width: 1011px;
+}
+
+.element-d .text-wrapper-28 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.element-d .text-wrapper-29 {
+  font-weight: 700;
+}
+
+.element-d .header {
+  background-color: transparent;
+  height: 83px;
+  left: 105px;
+  position: absolute;
+  top: 0;
+  width: 824px;
+}
+
+.element-d .GET-PAID-IN {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 60px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}
+
+.element-d .text-wrapper-30 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 60px;
+  font-weight: 100;
+  letter-spacing: 0;
+}
+
+.element-d .text-wrapper-31 {
+  font-size: 58px;
+}
+
+.element-d .text-wrapper-32 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 505px;
+  height: 79px;
+  font-family: Oswald, Helvetica;
+  font-size: 54px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  left: 319px;
+  -webkit-background-clip: text !important;
+}
+
+
+.element-d .costs-section {
+  align-self: center;
+  height: 568px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 21px;
+  font-weight: 700;
+  left: 83px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 500px;
+  width: 1114px;
+}
+
+.element-d .element-white-blocks {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  left: 160px;
+  position: absolute;
+  top: 374px;
+  width: 959px;
+}
+
+.element-d .overlap-group-wrapper {
+  height: 87px;
+  position: relative;
+  width: 293px;
+}
+
+.element-d .overlap-group-6 {
+  border-radius: 14px;
+  height: 87px;
+  position: relative;
+}
+
+.element-d .shadows {
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+  border-radius: 14px;
+  box-shadow: inset 6px 8px 8px #aeaec08c, inset -6px -6px 6px #ffffffb2;
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 293px;
+}
+
+.element-d .text-wrapper-34 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 163px;
+}
+
+.element-d .shadows-2 {
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+  border-radius: 14px;
+  box-shadow: inset 6px 8px 8px #aeaec08c, inset -6px -6px 6px #ffffffb2;
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 293px;
+}
+
+.element-d .text-wrapper-35 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 224px;
+}
+
+.element-d .text-wrapper-36 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 180px;
+}
+
+.element-d .header-text {
+  height: 160px;
+  left: 83px;
+  position: absolute;
+  top: 172px;
+  width: 1114px;
+}
+
+.element-d .cut-your-transaction {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.4px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 104px;
+  width: 1114px;
+}
+
+.element-d .DECREASE-YOUR-COSTS {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 1114px;
+}
+
+.element-d .text-wrapper-37 {
+  font-family: "Oswald", Helvetica;
+  font-size: 54px;
+  font-weight: 500;
+}
+
+.element-d .bottom-ipad-section {
+  height: 796px;
+  margin-top: -43px;
+  position: relative;
+  width: 1278px;
+}
+
+.element-d .overlap-10 {
+  height: 747px;
+  left: -118px;
+  position: absolute;
+  top: 189px;
+  width: 846px;
+}
+
+.element-d .read-button-instance { 
+  left: 257px;
+  position: absolute;
+  top: 562px;
+  width: 226px;
+}
+
+.element-d .overlap-wrapper {
+  height: 747px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 846px;
+}
+
+.element-d .overlap-11 {
+  height: 747px;
+  position: relative;
+}
+
+.element-d .group {
+  height: 840px;
+  left: 47px;
+  position: absolute;
+  top: -47px;
+  transform: rotate(90deg);
+  width: 747px;
+}
+
+.element-d .overlap-group-7 {
+  height: 723px;
+  position: relative;
+}
+
+.element-d .shadows-3 {
+  height: 747px;
+  left: 15px;
+  position: absolute;
+  top: -8px;
+  transform: rotate(-90deg);
+  width: 716px;
+}
+
+.element-d .frame-3 {
+  background-color: #ffffff;
+  border-radius: 29px;
+  box-shadow: 80px 80px 150px #00000040, 20px 20px 50px #00000059;
+  height: 688px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 493px;
+}
+
+.element-d .API-VID-TO-PLACE {
+  height: 493px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 688px;
+}
+
+.element-d .API-GIF-SCREEN {
+  height: 485px;
+  left: 138px;
+  position: absolute;
+  top: 17px;
+  width: 682px;
+  border-radius: 40px;
+}
+
+.element-d .asset-7 {
+  height: 501px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 700px;
+}
+
+.element-d .text-block-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  height: 598px;
+  left: 775px;
+  position: absolute;
+  top: 150px;
+  width: 391px;
+}
+
+.element-d .frame-4 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  height: 189px;
+  margin-left: -63px;
+  position: relative;
+}
+
+.element-d .SUPERCHARGING-CRYPTO {
+  color: #faf8f8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 46.2px;
+  font-weight: 100;
+  height: 106px;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: 391px;
+}
+
+.element-d .WITH-STATE-OF-THE {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  text-align: right;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 454px;
+  height: 154px;
+  margin-top: -9px;
+  margin-bottom: -61px;
+  font-family: Oswald, Helvetica;
+  font-size: 43px;
+  font-weight: 500;
+  line-height: 46.3px;
+  position: relative;
+  -webkit-background-clip: text !important;
+}
+
+
+.element-d .text-wrapper-38 {
+  color: #e9edf3;
+  letter-spacing: 0;
+}
+
+.element-d .text-wrapper-39 {
+  color: #e9edf3;
+  letter-spacing: -0.86px;
+}
+
+.element-d .frame-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19px;
+  padding: 0px 0px 13px;
+  position: relative;
+  width: 345px;
+}
+
+.element-d .API-integration {
+  color: #faf7f7;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 23px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: -44px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: 389px;
+}
+
+.element-d .text-wrapper-40 {
+  font-size: 20px;
+  line-height: 29px;
+}
+
+.element-d .text-wrapper-41 {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.element-d .div-2 {
+  color: #faf7f7;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 23px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-left: -44px;
+  position: relative;
+  text-align: right;
+  width: 389px;
+}
+
+.element-d .iframe-section {
+  height: 788px;
+  margin-top: -43px;
+  position: relative;
+  width: 1279px;
+}
+
+.element-d .overlap-12 {
+  height: 927px;
+  left: 486px;
+  position: absolute;
+  top: 94px;
+  width: 618px;
+}
+
+.element-d .right-text {
+  height: 87px;
+  left: 342px;
+  position: absolute;
+  top: 351px;
+  width: 272px;
+}
+
+.element-d .xionpay {
+  height: 33px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 151px;
+}
+
+.element-d .text-wrapper-42 {
+  color: #000000;
+  font-family: "Oswald", Helvetica;
+  font-size: 35px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 5.25px;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 400px;
+}
+
+.element-d .phone {
+  height: 927px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 618px;
+}
+
+.element-d .overlap-group-8 {
+  height: 813px;
+  position: relative;
+  top: 114px;
+  width: 524px;
+}
+
+.element-d .shadows-4 {
+  height: 811px;
+  left: 5px;
+  position: absolute;
+  top: 2px;
+  width: 519px;
+}
+
+.element-d .frame-6 {
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-shadow: 80px 80px 150px #00000040, 20px 20px 50px #00000059;
+  height: 608px;
+  left: 3px;
+  opacity: 0.8;
+  position: absolute;
+  top: 1px;
+  width: 301px;
+}
+
+.element-d .IFRAME-TO-PLACE {
+  background-color: #000000;
+  border-radius: 34px;
+  height: 283px;
+  left: -141px;
+  position: absolute;
+  top: 164px;
+  transform: rotate(90deg);
+  width: 594px;
+}
+
+.element-d .i-f {
+  height: 615px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 308px;
+}
+
+.element-d .left-text {
+  height: 58px;
+  left: 178px;
+  position: absolute;
+  top: 442px;
+  width: 273px;
+}
+
+.element-d .line {
+  height: 4px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 176px;
+}
+
+.element-d .text-wrapper-43 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 38px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.element-d .loyalty-CTA-section {
+  height: 862px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .CTA-section {
+  height: 241px;
+  left: 0;
+  position: absolute;
+  top: 588px;
+  width: 1280px;
+}
+
+.element-d .CTA-shaddow {
+  height: 48px;
+  left: 342px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 596px;
+}
+
+.element-d .enjoy-the-freedom-of {
+  color: #1185c3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 34px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 2.04px;
+  line-height: 42.7px;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: 1280px;
+}
+
+.element-d .CTA-buttons {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  left: 404px;
+  position: absolute;
+  top: 0;
+  width: 472px;
+}
+
+.element-d .loyalty-section {
+  height: 272px;
+  left: 0;
+  position: absolute;
+  top: 162px;
+  width: 1280px;
+}
+
+.element-d .element-black-blocks {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  left: 83px;
+  position: absolute;
+  top: 229px;
+  width: 1114px;
+}
+
+.element-d .b-2 {
+  height: 101px;
+  margin-left: -21.5px;
+  position: relative;
+  width: 359px;
+}
+
+.element-d .div-3 {
+  height: 101px;
+  position: relative;
+  width: 359px;
+}
+
+.element-d .element-d-button {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.element-d .overlap-group-9 {
+  height: 101px;
+  position: relative;
+}
+
+.element-d .rectangle-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.23) 0%, rgba(0, 0, 0, 0) 64.81%);
+  border-radius: 10px;
+  filter: blur(28px);
+  height: 85px;
+  left: 9px;
+  opacity: 0.5;
+  position: absolute;
+  top: 16px;
+  width: 350px;
+}
+
+.element-d .rectangle-10 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(2, 2, 2) 0%,
+    rgb(0, 0, 0) 69.79%,
+    rgb(0, 0, 0) 100%
+  );
+  border-radius: 10px;
+  box-shadow: inset 0px 1px 5px #ffffff99, inset 0px -8px 36px #0000004c;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.element-d .monetize-blogs-apps {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 700;
+  height: 59px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 262px;
+}
+
+.element-d .works-with-any-all {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 700;
+  height: 59px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 262px;
+}
+
+.element-d .b-3 {
+  height: 101px;
+  margin-right: -21.5px;
+  position: relative;
+  width: 359px;
+}
+
+.element-d .activate-loyalty {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 700;
+  height: 59px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 262px;
+}
+
+.element-d .strengthen-your {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 106px;
+  width: 1280px;
+}
+
+.element-d .headline {
+  height: 83px;
+  left: 301px;
+  position: absolute;
+  top: 0;
+  width: 686px;
+}
+
+.element-d .text-wrapper-44 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 60px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  width: 216px;
+}
+
+.element-d .text-wrapper-45 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 459px;
+  height: 79px;
+  font-family: Oswald, Helvetica;
+  font-size: 54px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  left: 227px;
+  -webkit-background-clip: text !important;
+}
+
+.element-d .cash-back-section {
+  height: 663px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .overlap-13 {
+  height: 463px;
+  left: 70px;
+  position: relative;
+  top: 126px;
+  width: 1075px;
+}
+
+.element-d .copy-block {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 649px;
+  position: absolute;
+  top: 50px;
+  width: 426px;
+}
+
+.element-d .CASH-BACK {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  height: 134px;
+  position: relative;
+}
+
+.element-d .text-wrapper-46 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 60px;
+  font-weight: 100;
+  height: 82px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  width: 313px;
+}
+
+.element-d .text-wrapper-47 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-align: right;
+  text-fill-color: transparent;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 309px;
+  height: 79px;
+  margin-top: -17px;
+  margin-bottom: -9px;
+  font-family: Oswald, Helvetica;
+  font-size: 54px;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  -webkit-background-clip: text !important;
+}
+
+
+.element-d .text-wrapper-48 {
+  color: #000000;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+  width: 407px;
+}
+
+.element-d .cash-back-image {
+  height: 463px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 668px;
+}
+
+.element-d .start-section {
+  height: 489px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+}
+
+.element-d .start-image {
+  height: 553px;
+  left: 641px;
+  object-fit: cover;
+  position: absolute;
+  top: -102px;
+  width: 618px;
+}
+
+.element-d .CTA-buttons-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  left: 141px;
+  position: absolute;
+  top: 330px;
+  width: 472px;
+}
+
+.element-d .text-block-3 {
+  height: 154px;
+  left: 137px;
+  position: absolute;
+  top: 146px;
+  width: 323px;
+}
+
+.element-d .overlap-group-10 {
+  height: 154px;
+  position: relative;
+  top: -1px;
+}
+
+.element-d .text-wrapper-49 {
+  color: #e9edf3;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 66px;
+  font-weight: 100;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 224px;
+}
+
+.element-d .text-wrapper-50 {
+  -webkit-text-fill-color: transparent;
+  color: #0000;
+  letter-spacing: 0;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  background: linear-gradient(90deg, #1adbbb 0%, #14a5ed 21.88%, #7f64fb 41.67%, #f33265 61.98%, #ffaf84 81.25%, #ff766c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  width: 323px;
+  height: 79px;
+  font-family: Oswald, Helvetica;
+  font-size: 66px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  left: 0;
+  -webkit-background-clip: text !important;
+}
+
+.element-d .footer-section {
+  height: 344px;
+  margin-top: -43px;
+  position: relative;
+  width: 1278px;
+}
+
+.element-d .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 307px;
+  left: 144px;
+  position: relative;
+  top: 41px;
+}
+
+.element-d .XG-logo {
+  height: 31.84px;
+  position: relative;
+  width: 155.66px;
+}
+
+.element-d .sections {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 80px;
+  position: relative;
+}
+
+.element-d .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.element-d .text-wrapper-51 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-d .text-wrapper-52 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.element-d .follow-us {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 33px;
+  position: relative;
+}
+
+.element-d .follow-us-2 {
+  height: 81.5px;
+  position: relative;
+  width: 98.78px;
+}
+
+.element-d .text-wrapper-53 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+}
+
+.element-d .social {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+}
+
+.element-d .telegram-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.49px !important;
+  margin-left: -0.5px !important;
+  margin-top: -0.51px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-d .twitter-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.5px !important;
+  margin-top: -0.5px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-d .medium-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.49px !important;
+  margin-top: -0.51px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-d .linkedin-footer-instance {
+  left: unset !important;
+  margin-bottom: -0.49px !important;
+  margin-right: -0.5px !important;
+  margin-top: -0.51px !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.element-d .text-wrapper-54 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.element-d .t-cs {
+  height: 17.49px;
+  position: relative;
+  width: 61px;
+}
+
+.element-d .overlap-group-11 {
+  height: 17px;
+  position: relative;
+  top: -1px;
+}
+
+.element-d .text-wrapper-55 {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 6px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element-d .all-rights-reserved {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 6px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.element-d .NAV {
+  background-color: #f3f3f3;
+  height: 120px;
+  left: 50%;
+  position: fixed; /* Change from 'absolute' to 'fixed' */
+  align-self: center;
+  top: 0;
+  transform: translateX(-50%); /* Center horizontally using transform */
+  width: 100%;
+  z-index: 1000; /* Add a high z-index to make sure it's above other content */
+}
+
+
+.element-d .frame-8 {
+  align-items: center;
+  display: flex;
+  gap: 732px;
+  justify-content: center;
+  position: relative;
+  top: 47px;
+}
+
+.element-d .xion-logo {
+  height: 30.71px;
+  margin-left: -0.49px;
+  position: relative;
+  width: 156.98px;
+}
+
+.element-d .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -0.49px;
+  position: relative;
+}
+
+.element-d .frame-wrapper {
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.element-d .frame-10 {
+  background-image: url(../../../static/img/shadows-10-2.png);
+  background-size: 100% 100%;
+  height: 39px;
+  overflow: hidden;
+}
+
+.element-d .overlap-group-12 {
+  height: 40px;
+  position: relative;
+  top: -1px;
+  width: 226px;
+}
+
+.element-d .rectangle-11 {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 226px;
+}
+
+.element-d .get-started-3 { 
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 39px;
+  left: 0;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 226px;
+  cursor: pointer;
+}
+
+.element-d .get-started-3:hover {
+  animation: shake 5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translateX(-5px); /* Move left */
+  }
+  20%, 80% {
+    transform: translateX(5px); /* Move right */
+  }
+  30%, 50%, 70% {
+    transform: translateX(-3px); /* Move left */
+  }
+  40%, 60% {
+    transform: translateX(3px); /* Move right */
+  }
+}
+
+.element-d .div-5 {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.element-d .shadows-5 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.element-d .shadows-6 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.element-d .rectangle-12 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.element-d .group-2 {
+  height: 18px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}

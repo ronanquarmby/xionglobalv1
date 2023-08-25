@@ -1,0 +1,1 @@
+export { DotIndictaor } from "./DotIndictaor";

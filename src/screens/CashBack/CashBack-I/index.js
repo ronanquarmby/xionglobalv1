@@ -1,0 +1,1 @@
+export { CBI } from "./CashBackIpad";

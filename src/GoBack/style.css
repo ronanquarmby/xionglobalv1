@@ -1,0 +1,30 @@
+.go-back {
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.go-back:hover {
+  background-color: #7f64fb;
+  border: 1px solid;
+  border-color: #7f64fb;
+}
+
+.go-back .read-the-docs {
+  color: #ffffff;
+  font-family: "Opinion Pro Extended-Light", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: -1.26px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 226px;
+}
+
+.go-back:hover .read-the-docs {
+  color: #7f64fb;
+}

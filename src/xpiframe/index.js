@@ -1,0 +1,1 @@
+export { XionPayIframe } from "./XionPayIframe";

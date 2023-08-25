@@ -1,0 +1,145 @@
+.NAV-ip {
+  background-color: #f3f3f3; 
+  height: 120px;
+  left: 50%;
+  position: fixed; /* Change from 'absolute' to 'fixed' */
+  align-self: center;
+  top: 0;
+  transform: translateX(-50%); /* Center horizontally using transform */
+  width: 768px;
+  z-index: 1000; /* Add a high z-index to make sure it's above other content */
+}  
+
+.frame-7-nav-ip {
+  align-items: center;
+  display: flex;
+  gap: 262px;
+  left: 29px;
+  position: relative;
+  top: 47px;
+  width: 709px;
+}
+
+.xion-logo-ip {
+  height: 30.71px; 
+  position: relative;
+  width: 156.98px;
+}
+
+.frame-8-ip {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -1px;
+  position: relative;
+}
+
+.GS-button-2-ip {
+  height: 39px;
+  position: relative;
+  width: 228.02px;
+}
+
+.overlap-group-11-ip {
+  background-image: url(../../../static/img/shadows-10-9.png);
+  background-size: 100% 100%;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.rectangle-13-ip {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 226px;
+}
+
+.get-started-3-ip {
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 27px;
+  left: 0;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 226px;
+  cursor: pointer; 
+}
+
+.get-started-3-ip:hover {
+  animation: shake 5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translateX(-5px); /* Move left */
+  }
+  20%, 80% {
+    transform: translateX(5px); /* Move right */
+  }
+  30%, 50%, 70% {
+    transform: translateX(-3px); /* Move left */
+  }
+  40%, 60% {
+    transform: translateX(3px); /* Move right */
+  }
+}
+
+.div-3-ip {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.shadows-4-ip {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.shadows-5-ip {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.rectangle-14-ip {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.group-3-ip {
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}

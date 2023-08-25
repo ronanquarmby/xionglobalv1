@@ -1,0 +1,462 @@
+.error-d {
+  background-color: #f3f3f3;
+  flex-direction: column;
+  align-items: center;
+  height: 1200px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.error-d .BG-elements {
+  height: 3374px;
+  align-self: center;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.error-d .overlap-4 {
+  height: 3524px;
+  position: relative;
+}
+
+.error-d .footer {
+  height: 315px;
+  left: 50px;
+  position: absolute;
+  top: 3163px;
+  width: 1179px;
+}
+
+.error-d .start {
+  height: 638px;
+  left: 50px;
+  position: absolute;
+  top: 2525px;
+  width: 1179px;
+}
+
+.error-d .overlap-group-5 {
+  height: 638px;
+  position: relative;
+}
+
+.error-d .rectangle-8 {
+  height: 426px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 1179px;
+}
+
+.error-d .gradient {
+  height: 638px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.error-d .mouse {
+  height: 428px;
+  left: 0;
+  position: absolute;
+  top: 210px;
+  width: 1179px;
+}
+
+.error-d .hero {
+  height: 607px;
+  left: 50px;
+  position: absolute;
+  top: 120px;
+  width: 1180px;
+}
+
+.error-d .overlap-5 {
+  height: 598px;
+  position: relative;
+}
+
+.error-d .rectangle-9 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1179px;
+}
+
+.error-d .gradient-2 {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1179px;
+}
+
+.error-d .noize {
+  height: 3524px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.error-d .nav-spacer {
+  height: 151px;
+  margin-top: -43px;
+  position: relative;
+  width: 1280px;
+} 
+
+.error-d .main-3 {
+  height: 1200px;
+  margin-top: -49px;
+  position: relative;
+  width: 1280px;
+}
+
+.error-d .overlap-13 {
+  height: 624px;
+  left: 133px;
+  position: relative;
+  top: 74px;
+  width: 1147px;
+}
+
+.error-d .frame-23 {
+  height: 414px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 513px;
+}
+
+.error-d .go-back-2 {
+  left: 9px !important;
+  position: absolute !important;
+  top: 415px !important;
+}
+
+.error-d .overlap-group-11 {
+  height: 312px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 513px;
+}
+
+.error-d .text-wrapper-32 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 246px;
+  white-space: nowrap;
+  width: 504px;
+}
+
+.error-d .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 50px;
+  font-weight: 100;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 501px;
+}
+
+.error-d .ABOUT-US-3 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(26, 219, 187) 0%,
+    rgb(20, 165, 237) 21.88%,
+    rgb(127, 100, 251) 41.67%,
+    rgb(243, 50, 101) 61.98%,
+    rgb(255, 175, 132) 81.25%,
+    rgb(255, 118, 108) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", Helvetica;
+  font-size: 201px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -10.05px;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 0;
+  width: 513px;
+}
+
+.error-d .gummy-rayman-2 {
+  height: 624px;
+  left: 459px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 688px;
+}
+
+.error-d .gummy-rayman-3 {
+  height: 355px;
+  left: 466px;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 321px;
+}
+
+.error-d .NAV-5 {
+  background-color: #f3f3f3;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.error-d .frame-24 {
+  align-items: center;
+  display: flex;
+  gap: 732px;
+  left: 50px;
+  position: relative;
+  top: 47px;
+  width: 1179px;
+}
+
+.error-d .xion-logo-5 {
+  height: 30.71px;
+  position: relative;
+  width: 156.98px;
+}
+
+.error-d .frame-25 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -0.98px;
+  position: relative;
+}
+
+.error-d .df-container {
+      width: 1280px;
+      position: relative;
+      top: -216px;
+}
+
+.error-d .GS-button-5 {
+  all: unset;
+  border-radius: 10px;
+  box-sizing: border-box;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.error-d .frame-26 {
+  background-size: 100% 100%;
+  height: 39px;
+  overflow: hidden;
+}
+
+.error-d .overlap-group-12 {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.error-d .get-started-9 {
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.error-d .div-8 {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.error-d .shadows-5 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.error-d .shadows-6 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.error-d .rectangle-14 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.error-d .group-4 {
+  height: 18px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+
+.error-d .footer-section {
+  height: 344px;
+  margin-top: -43px;
+  position: relative;
+  width: 1278px;
+}
+
+.error-d .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 307px;
+  left: 144px;
+  position: relative;
+  top: 41px;
+}
+
+.error-d .XG-logo {
+  height: 31.84px;
+  position: relative;
+  width: 155.66px;
+}
+
+.error-d .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-right: -0.98px;
+  position: relative;
+}
+
+.error-d .frame-wrapper {
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.error-d .overlap-group-wrapper {
+  background-size: 100% 100%;
+  height: 39px;
+  overflow: hidden;
+}
+
+.error-d .get-started-wrapper {
+  border: 1px solid;
+  border-color: #439be4;
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 226px;
+}
+
+.error-d .get-started-3 {
+  color: #439be4;
+  font-family: "Oswald", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 3.24px;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.error-d .div-7 {
+  height: 39px;
+  position: relative;
+  width: 45px;
+}
+
+.error-d .shadows {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  box-shadow: 3.27px 3.27px 6.54px #aeaec066, -2.18px -2.18px 6.54px #ffffff;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 45px;
+}
+
+.error-d .shadows-2 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.error-d .rectangle-10 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(171, 47, 254), rgb(64, 175, 253) 96.88%) 1;
+  border-radius: 10px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.error-d .group-4 {
+  height: 18px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 21px;
+}
+
+/* Continue with the rest of your classes... */

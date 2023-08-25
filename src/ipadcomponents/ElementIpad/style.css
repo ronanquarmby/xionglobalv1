@@ -1,0 +1,134 @@
+.element-iipad {
+  height: 355px;
+  
+  position: relative;
+  top: 20px;
+  width: 723px;
+}
+
+.element-iipad .ipad-shaddow-i {
+  height: 305px;
+  left: 275px;
+  position: absolute;
+  top: 25px;
+  width: 427px;
+}
+
+.element-iipad .asset-i { 
+  object-fit: cover;
+  width: 427px;
+  height: 305px;
+  position: absolute; 
+}
+
+.element-iipad .bullet-points-i {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 123px;
+  left: 11px;
+  position: absolute;
+  top: 183px;
+  width: 250px;
+}
+
+.element-iipad .create-i {
+  height: 20.5px;
+  margin-right: -187px;
+  position: relative;
+  width: 437px;
+  cursor: pointer;
+}
+
+.element-iipad .create-one-time-or-i {
+  color: #e8e8e8;
+  letter-spacing: 0;
+  cursor: pointer;
+  width: 408px;
+  height: 19px;
+  font-family: Titillium Web, Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 27px;
+}
+
+.element-iipad .overlap-group-i {
+  border-radius: 26.16px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.element-iipad .shadows-m-i {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 26.16px;
+  box-shadow: inset 3.27px 3.27px 2.18px #aeaec033, inset -2.18px -2.18px 2.18px #ffffffb2;
+  height: 20px;
+  left: 0;
+  mix-blend-mode: color-burn;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 20px;
+}
+
+.element-iipad .path-i {
+  border-radius: inherit;
+  cursor: pointer;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.element-iipad .div-i {
+  height: 20px;
+  margin-right: -187px;
+  position: relative;
+  width: 437px;
+  cursor: pointer;
+}
+
+.element-iipad .text-wrapper-i {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 19px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 408px;
+  cursor: pointer;
+}
+
+.element-iipad .p-i {
+  color: #e8e8e8;
+  font-family: "Titillium Web", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 20px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 408px;
+  cursor: pointer;
+}
+
+.element-iipad .create-i.selected .create-one-time-or-i,
+.element-iipad .div-i.selected .text-wrapper-i,
+.element-iipad .div-i.selected .p-i,
+.element-iipad .div-i.selected .p-i {
+  color: #14a5ed; /* Change this to the desired color */
+}
